@@ -1,0 +1,14 @@
+{
+  "name": "environmental-explorer-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Isolated Playwright + Microsoft Edge opaque-box E2E test suite",
+  "scripts": {
+    "test": "node run-e2e.mjs",
+    "self-test": "node run-e2e.mjs --self-test"
+  },
+  "dependencies": {
+    "playwright": "^1.65.1"
+  }
+}

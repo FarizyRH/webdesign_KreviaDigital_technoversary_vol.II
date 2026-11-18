@@ -1,0 +1,1752 @@
+{
+  "version": "2026-11",
+  "stories": [
+    {
+      "id": "sumatra-rainforest-deforestation",
+      "slug": "sumatra-rainforest-deforestation",
+      "featured": true,
+      "category": "forest-loss",
+      "region": "sumatra",
+      "location": {
+        "name": {
+          "id": "Dataran Rendah Riau & Lanskap Hutan Sumatra",
+          "en": "Riau Lowlands & Sumatra Forest Landscapes"
+        },
+        "coordinates": {
+          "lat": 0.5,
+          "lng": 101.45,
+          "label": "0.5000° N, 101.4500° E"
+        },
+        "mapAnchor": {
+          "x": 155,
+          "y": 375
+        }
+      },
+      "heroImage": {
+        "src": "/images/riau-palm-oil-2007.jpg",
+        "alt": {
+          "id": "Hamparan perkebunan kelapa sawit di lanskap dataran rendah Riau, Sumatra, tahun 2007.",
+          "en": "Expansive oil palm plantation landscape in lowland Riau, Sumatra, photographed in 2007."
+        },
+        "caption": {
+          "id": "Konversi dataran rendah di Riau menjadi perkebunan industri (2007), salah satu pendorong historis hilangnya hutan primer Sumatra.",
+          "en": "Lowland conversion to industrial plantations in Riau (2007), illustrating a primary historical driver of Sumatra's primary forest loss."
+        },
+        "author": "Hayden",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riau_palm_oil_2007.jpg",
+        "attribution": "Photo by Hayden, CC BY 2.0, via Wikimedia Commons"
+      },
+      "title": {
+        "id": "Deforestasi Hutan Hujan Sumatra & Fragmentasi Habitat",
+        "en": "Sumatra Rainforest Deforestation & Habitat Fragmentation"
+      },
+      "subtitle": {
+        "id": "Bagaimana hilangnya 7,54 juta hektare hutan primer dalam dua dekade membentuk ulang lanskap ekologis Pulau Sumatra",
+        "en": "How the loss of 7.54 million hectares of primary forest across two decades reshaped Sumatra's ecological landscape"
+      },
+      "summary": {
+        "id": "Analisis deret waktu satelit Landsat menunjukkan Sumatra kehilangan 7,54 juta hektare hutan primer pada 1990–2010 dan lebih dari 1,5 juta hektare hutan rawa/gambut primer pada 2000–2012. Meski laju kehilangan hutan primer nasional melambat pasca-moratorium permanen 2019, fragmentasi warisan terus memicu krisis habitat satwa dan kerentanan kebakaran gambut.",
+        "en": "Landsat time-series mapping reveals Sumatra lost 7.54 million hectares of primary forest between 1990 and 2010, followed by over 1.5 million hectares of primary wetland and peat forest loss between 2000 and 2012. Although national primary loss rates moderated after Indonesia's 2019 permanent moratorium, legacy fragmentation continues to drive wildlife declines and peat-fire vulnerability."
+      },
+      "keyMetric": {
+        "value": "7.54 Mha",
+        "label": {
+          "id": "Hutan primer Sumatra hilang (1990–2010)",
+          "en": "Sumatra primary forest lost (1990–2010)"
+        },
+        "factType": "fact",
+        "sourceId": "margono-2012"
+      },
+      "sections": {
+        "introduction": {
+          "paragraphs": [
+            {
+              "id": "Hutan hujan tropis dataran rendah dan rawa gambut Sumatra termasuk ekosistem dengan keanekaragaman hayati serta kerapatan karbon tertinggi di Asia Tenggara. Namun, pemetaan deret waktu citra satelit Landsat mencatat Sumatra kehilangan 7,54 juta hektare (Mha) hutan primer antara tahun 1990 hingga 2010, disertai degradasi pada 2,31 juta hektare hutan primer lainnya.",
+              "en": "Sumatra's lowland tropical rainforests and peat swamps rank among Southeast Asia's most biodiverse and carbon-dense ecosystems. Yet Landsat satellite time-series mapping documents that Sumatra lost 7.54 million hectares (Mha) of primary forest between 1990 and 2010, alongside degradation across an additional 2.31 Mha of primary forest.",
+              "factType": "fact",
+              "sourceIds": ["margono-2012", "margono-2014"]
+            },
+            {
+              "id": "Perubahan tutupan lahan ini bukan sekadar penyusutan luas hutan, melainkan fragmentasi spasial yang memutus koridor antar-ekosistem—dari kawasan pegunungan Leuser dan Kerinci Seblat hingga rawa gambut pesisir timur—yang berdampak langsung pada spesies terancam punah dan siklus emisi karbon.",
+              "en": "This land-cover transformation represents more than total area reduction: it fragments contiguous canopy into isolated patches, severing ecological corridors from the Leuser and Kerinci Seblat mountains to eastern peat swamps and cascading directly into species declines and fire-driven emissions.",
+              "factType": "fact",
+              "sourceIds": ["margono-2012", "unesco-trhs"]
+            }
+          ]
+        },
+        "place": {
+          "paragraphs": [
+            {
+              "id": "Membentang dari Aceh di utara hingga Lampung di selatan, lanskap hutan Sumatra terbagi atas hutan pegunungan Bukit Barisan dan dataran rendah aluvial serta lahan gambut di pantai timur (termasuk Riau, Jambi, dan Sumatra Selatan). Warisan Hutan Hujan Tropis Sumatra seluas sekitar 2,5 juta hektare—mencakup Taman Nasional Gunung Leuser, Kerinci Seblat, dan Bukit Barisan Selatan—ditetapkan sebagai Situs Warisan Dunia UNESCO pada 2004.",
+              "en": "Spanning from Aceh in the north to Lampung in the south, Sumatra's forest biome spans the Bukit Barisan mountain spine and vast eastern alluvial lowlands and peat basins across Riau, Jambi, and South Sumatra. Around 2.5 million hectares of mountain and foothill forest—spanning Gunung Leuser, Kerinci Seblat, and Bukit Barisan Selatan National Parks—were inscribed as the UNESCO Tropical Rainforest Heritage of Sumatra in 2004.",
+              "factType": "fact",
+              "sourceIds": ["margono-2012", "unesco-trhs"]
+            },
+            {
+              "id": "Meski berstatus warisan dunia, kawasan lindung tersebut masuk ke Daftar Warisan Dunia dalam Bahaya UNESCO pada 2011 akibat tekanan perambahan, penebangan liar, dan rencana pembangunan jalan yang mengancam konektivitas hutan dataran rendah di sekitarnya.",
+              "en": "Despite its World Heritage designation, UNESCO placed the property on the List of World Heritage in Danger in 2011 due to agricultural encroachment, illegal logging, poaching, and road construction proposals threatening surrounding lowland corridors.",
+              "factType": "fact",
+              "sourceIds": ["unesco-trhs"]
+            }
+          ]
+        },
+        "whatIsHappening": {
+          "paragraphs": [
+            {
+              "id": "Temuan kunci pemantauan satelit menunjukkan pola bertahap: dari 7,54 juta hektare hutan primer yang hilang pada 1990–2010, sebanyak 7,25 juta hektare telah mengalami degradasi sebelum akhirnya dibuka total, sedangkan 0,28 juta hektare dibuka langsung dari kondisi utuh.",
+              "en": "Satellite monitoring reveals a distinct two-stage pathway: of the 7.54 Mha of primary forest cleared in Sumatra between 1990 and 2010, 7.25 Mha had already been degraded prior to final clearing, while 0.28 Mha was cleared directly from intact primary cover.",
+              "factType": "fact",
+              "sourceIds": ["margono-2012"]
+            },
+            {
+              "id": "Secara nasional pada 2000–2012, Indonesia kehilangan lebih dari 6,02 juta hektare tutupan hutan primer (meningkat rata-rata 47.600 ha per tahun hingga mencapai 0,84 juta ha pada 2012), dengan lebih dari 1,5 juta hektare kehilangan hutan rawa dan gambut primer terjadi di Sumatra. Dalam data terbaru WRI/Global Forest Watch, Indonesia mencatat kehilangan 292.000 ha hutan primer tropis pada 2023 dan 259.000 ha hutan alam pada 2024 (kumulatif kehilangan tutupan pohon 2001–2024 melampaui 32 juta ha).",
+              "en": "Nationally across 2000–2012, primary forest cover loss exceeded 6.02 Mha (rising by an average of 47,600 ha/yr to 0.84 Mha in 2012), including more than 1.5 Mha of primary wetland and peat forest loss in Sumatra alone. Recent WRI/Global Forest Watch tracking records 292,000 ha of tropical primary forest loss across Indonesia in 2023 and 259,000 ha of natural forest loss in 2024, bringing cumulative 2001–2024 tree cover loss above 32 Mha nationwide.",
+              "factType": "fact",
+              "sourceIds": ["margono-2014", "wri-gfw-2025"]
+            }
+          ]
+        },
+        "causes": {
+          "items": [
+            {
+              "title": {
+                "id": "Ekspansi Perkebunan Kelapa Sawit & Hutan Tanaman Pulp",
+                "en": "Industrial Oil Palm & Pulpwood Plantation Expansion"
+              },
+              "detail": {
+                "id": "Konversi hutan dataran rendah dan rawa gambut menjadi perkebunan kelapa sawit serta hutan tanaman industri bubur kertas (pulp) merupakan pendorong utama hilangnya tutupan hutan primer historis di Sumatra.",
+                "en": "Conversion of lowland rainforests and peat swamps into industrial oil palm and pulpwood plantations served as the dominant driver of historical primary forest clearing across Sumatra."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["margono-2012", "margono-2014"]
+            },
+            {
+              "title": {
+                "id": "Degradasi Penebangan sebagai Awal Pembukaan Total",
+                "en": "Selective Logging Degradation Preceding Clear-Cutting"
+              },
+              "detail": {
+                "id": "Sebanyak 96% hutan primer yang dibuka pada 1990–2010 (7,25 dari 7,54 juta ha) lebih dahulu terdegradasi akibat penebangan dan pembukaan akses, yang menurunkan ketahanan kanopi sebelum konversi lahan.",
+                "en": "Approximately 96% of cleared primary forest in 1990–2010 (7.25 of 7.54 Mha) experienced prior logging degradation and access-road opening, weakening canopy integrity ahead of full conversion."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["margono-2012"]
+            },
+            {
+              "title": {
+                "id": "Perambahan & Pembangunan Jalan di Sekitar Kawasan Lindung",
+                "en": "Encroachment & Road Plans Around Protected Areas"
+              },
+              "detail": {
+                "id": "Pembangunan infrastruktur jalan, pembukaan lahan pertanian skala kecil, serta pembalakan liar di zona penyangga terus menekan batas kawasan lindung seperti Ekosistem Leuser dan Kerinci Seblat.",
+                "en": "Proposed road corridors, smallholder agricultural encroachment, and illegal logging along buffer zones continue to fragment edges around protected parks such as Gunung Leuser and Kerinci Seblat."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["unesco-trhs"]
+            }
+          ]
+        },
+        "impacts": {
+          "items": [
+            {
+              "title": {
+                "id": "Hilangnya Hutan Rawa Gambut Primer",
+                "en": "Loss of Primary Wetland & Peat Swamp Forests"
+              },
+              "detail": {
+                "id": "Lebih dari 1,5 juta hektare hutan rawa dan gambut primer di Sumatra hilang pada 2000–2012, mengganggu tata air alami dan meningkatkan risiko kekeringan serta kebakaran lahan gambut.",
+                "en": "Over 1.5 Mha of primary wetland and peat forests in Sumatra were cleared during 2000–2012, disrupting natural hydrology and heightening dry-season peat-fire susceptibility."
+              },
+              "factType": "fact",
+              "sourceIds": ["margono-2014"]
+            },
+            {
+              "title": {
+                "id": "Isolasi Habitat Satwa Kunci & Tekanan Warisan Dunia",
+                "en": "Wildlife Corridor Severance & World Heritage Vulnerability"
+              },
+              "detail": {
+                "id": "Terputusnya hutan dataran rendah membatasi ruang jelajah harimau Sumatra dan orangutan serta membuat Warisan Hutan Hujan Tropis Sumatra bertahan dalam status Dalam Bahaya UNESCO.",
+                "en": "Lowland forest fragmentation restricts movement corridors for Sumatran tigers and orangutans and sustains UNESCO's 'In Danger' listing for Sumatra's World Heritage rainforests."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["unesco-trhs", "wri-gfw-2025"]
+            },
+            {
+              "title": {
+                "id": "Moratorium Permanen Hutan Primer & Gambut",
+                "en": "Permanent Moratorium on Primary Forest & Peatland Permits"
+              },
+              "detail": {
+                "id": "Sebagai respons tata kelola, Indonesia menetapkan moratorium izin baru melalui Inpres No. 10/2011 dan menjadikannya permanen pada 7 Agustus 2019 melalui Inpres No. 5/2019.",
+                "en": "In policy response, Indonesia enacted a two-year permit moratorium under Inpres No. 10/2011 and made it permanent on 7 August 2019 via Inpres No. 5/2019."
+              },
+              "factType": "fact",
+              "sourceIds": ["inpres-10-2011", "inpres-5-2019"]
+            }
+          ]
+        },
+        "limitations": {
+          "id": "Data global 'tree cover loss' (Hansen/GFW) mendeteksi hilangnya kanopi pohon baik akibat deforestasi permanen maupun siklus panen hutan tanaman atau kebakaran, sehingga tidak selalu identik dengan konversi hutan primer. Selain itu, tutupan awan yang sering terjadi di wilayah ekuator Sumatra dapat menunda deteksi optik Landsat.",
+          "en": "Global 'tree cover loss' products (Hansen/GFW) capture canopy removal from both permanent deforestation and rotational plantation harvesting or wildfires, so they cannot be equated one-to-one with primary forest conversion. Frequent equatorial cloud cover over Sumatra can also delay optical Landsat observations.",
+          "factType": "uncertainty",
+          "sourceIds": ["margono-2014", "wri-gfw-2025"]
+        }
+      },
+      "timeline": [
+        {
+          "date": "1990–2010",
+          "title": {
+            "id": "Kehilangan 7,54 juta ha hutan primer Sumatra",
+            "en": "7.54 Mha of Sumatra primary forest lost"
+          },
+          "detail": {
+            "id": "Analisis deret waktu Landsat mencatat 7,54 juta ha hutan primer hilang (7,25 juta ha terdegradasi lebih dulu; 0,28 juta ha utuh) dan 2,31 juta ha lainnya terdegradasi.",
+            "en": "Landsat time-series analysis documents 7.54 Mha of primary forest cleared (7.25 Mha previously degraded; 0.28 Mha intact) and 2.31 Mha degraded."
+          },
+          "factType": "fact",
+          "sourceIds": ["margono-2012"]
+        },
+        {
+          "date": "2004",
+          "title": {
+            "id": "Penetapan Warisan Dunia UNESCO",
+            "en": "UNESCO World Heritage inscription"
+          },
+          "detail": {
+            "id": "Warisan Hutan Hujan Tropis Sumatra (~2,5 juta ha mencakup Gunung Leuser, Kerinci Seblat, dan Bukit Barisan Selatan) resmi ditetapkan UNESCO.",
+            "en": "The Tropical Rainforest Heritage of Sumatra (~2.5 Mha across Gunung Leuser, Kerinci Seblat, and Bukit Barisan Selatan) is inscribed by UNESCO."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2011-05-20",
+          "title": {
+            "id": "Terbitnya Inpres No. 10/2011 tentang Moratorium Hutan",
+            "en": "Inpres No. 10/2011 Forest Moratorium issued"
+          },
+          "detail": {
+            "id": "Pemerintah Indonesia menunda pemberian izin baru di hutan alam primer dan lahan gambut selama dua tahun.",
+            "en": "Indonesia enacts a two-year suspension on new permits in primary natural forests and peatlands."
+          },
+          "factType": "fact",
+          "sourceIds": ["inpres-10-2011"]
+        },
+        {
+          "date": "2011",
+          "title": {
+            "id": "Masuk Daftar Warisan Dunia dalam Bahaya",
+            "en": "Placed on UNESCO List of World Heritage in Danger"
+          },
+          "detail": {
+            "id": "UNESCO memasukkan Warisan Hutan Hujan Tropis Sumatra ke Daftar dalam Bahaya akibat pembalakan liar, perambahan, perburuan, dan rencana jalan.",
+            "en": "UNESCO adds the Tropical Rainforest Heritage of Sumatra to the In Danger list due to encroachment, illegal logging, poaching, and road plans."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2019-08-07",
+          "title": {
+            "id": "Moratorium dipermanenkan melalui Inpres No. 5/2019",
+            "en": "Moratorium made permanent via Inpres No. 5/2019"
+          },
+          "detail": {
+            "id": "Penghentian izin baru di hutan alam primer dan lahan gambut ditetapkan berlaku permanen.",
+            "en": "Indonesia converts the primary natural forest and peatland permit moratorium into a permanent policy."
+          },
+          "factType": "fact",
+          "sourceIds": ["inpres-5-2019"]
+        },
+        {
+          "date": "2023–2024",
+          "title": {
+            "id": "Pemantauan kehilangan hutan Indonesia terkini",
+            "en": "Recent national forest loss tracking"
+          },
+          "detail": {
+            "id": "WRI/Global Forest Watch mencatat kehilangan 292.000 ha hutan primer tropis Indonesia pada 2023 dan 259.000 ha hutan alam pada 2024.",
+            "en": "WRI/Global Forest Watch records 292,000 ha of Indonesian tropical primary forest loss in 2023 and 259,000 ha of natural forest loss in 2024."
+          },
+          "factType": "fact",
+          "sourceIds": ["wri-gfw-2025"]
+        }
+      ],
+      "chartData": {
+        "type": "bar",
+        "title": {
+          "id": "Dinamika Hutan Primer Sumatra 1990–2010 (Margono et al., 2012)",
+          "en": "Sumatra Primary Forest Fate 1990–2010 (Margono et al., 2012)"
+        },
+        "unit": "Mha",
+        "sourceId": "margono-2012",
+        "note": {
+          "id": "Total hutan primer yang dibuka mencapai 7,54 juta ha (penjumlahan 7,25 + 0,28 juta ha sesuai pembulatan studi asli), sedangkan 2,31 juta ha lainnya mengalami degradasi tanpa pembukaan total.",
+          "en": "Total cleared primary forest equaled 7.54 Mha (components 7.25 + 0.28 Mha reflect source rounding), while an additional 2.31 Mha was degraded without full clearing."
+        },
+        "series": [
+          {
+            "label": "Cleared (Pre-degraded)",
+            "value": 7.25,
+            "highlight": true
+          },
+          {
+            "label": "Degraded Only",
+            "value": 2.31,
+            "highlight": false
+          },
+          {
+            "label": "Cleared (Intact)",
+            "value": 0.28,
+            "highlight": false
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "margono-2012",
+          "title": "Mapping and monitoring deforestation and forest degradation in Sumatra (Indonesia) using Landsat time series data sets from 1990 to 2010",
+          "authorOrInstitution": "Margono, B. A. et al. (Environmental Research Letters, 7(3), 034010)",
+          "year": "2012",
+          "urlOrDoi": "https://doi.org/10.1088/1748-9326/7/3/034010",
+          "supportedClaim": {
+            "id": "Sumatra kehilangan 7,54 juta ha hutan primer (7,25 juta ha terdegradasi sebelumnya; 0,28 juta ha utuh) dan 2,31 juta ha mengalami degradasi pada 1990–2010.",
+            "en": "Sumatra lost 7.54 Mha of primary forest (7.25 Mha pre-degraded; 0.28 Mha intact) and experienced 2.31 Mha of primary forest degradation during 1990–2010."
+          }
+        },
+        {
+          "id": "margono-2014",
+          "title": "Primary forest cover loss in Indonesia over 2000–2012",
+          "authorOrInstitution": "Margono, B. A. et al. (Nature Climate Change, 4, 730–735)",
+          "year": "2014",
+          "urlOrDoi": "https://doi.org/10.1038/nclimate2277",
+          "supportedClaim": {
+            "id": "Kehilangan hutan primer nasional 2000–2012 melampaui 6,02 juta ha (0,84 juta ha pada 2012), termasuk >1,5 juta ha hutan rawa/gambut primer di Sumatra.",
+            "en": "National primary forest loss over 2000–2012 exceeded 6.02 Mha (0.84 Mha in 2012), including >1.5 Mha of primary wetland/peat forest loss in Sumatra."
+          }
+        },
+        {
+          "id": "wri-gfw-2025",
+          "title": "Global Forest Watch / Global Nature Watch — Indonesia Deforestation Rates & Statistics",
+          "authorOrInstitution": "World Resources Institute (WRI) / UMD GLAD Lab",
+          "year": "2024–2025",
+          "urlOrDoi": "https://globalnaturewatch.org/dashboards/country/IDN/",
+          "supportedClaim": {
+            "id": "Indonesia kehilangan 292.000 ha hutan primer tropis (2023) dan 259.000 ha hutan alam (2024); akumulasi kehilangan tutupan pohon 2001–2024 melebihi 32 juta ha.",
+            "en": "Indonesia lost 292,000 ha of tropical primary forest in 2023 and 259,000 ha of natural forest in 2024; cumulative 2001–2024 tree cover loss exceeded 32 Mha."
+          }
+        },
+        {
+          "id": "unesco-trhs",
+          "title": "Tropical Rainforest Heritage of Sumatra (World Heritage List & In Danger Status)",
+          "authorOrInstitution": "UNESCO World Heritage Centre",
+          "year": "2004 / 2011",
+          "urlOrDoi": "https://whc.unesco.org/en/list/1167/",
+          "supportedClaim": {
+            "id": "Penetapan Warisan Dunia seluas ~2,5 juta ha pada 2004 dan pencantuman dalam Daftar Warisan Dunia dalam Bahaya sejak 2011.",
+            "en": "2004 World Heritage inscription (~2.5 Mha) and placement on the List of World Heritage in Danger since 2011."
+          }
+        },
+        {
+          "id": "inpres-10-2011",
+          "title": "Instruksi Presiden Nomor 10 Tahun 2011 tentang Penundaan Pemberian Izin Baru dan Penyempurnaan Tata Kelola Hutan Alam Primer dan Lahan Gambut",
+          "authorOrInstitution": "Pemerintah Republik Indonesia (Ditjen PP / JDIH)",
+          "year": "2011",
+          "urlOrDoi": "https://peraturan.go.id/id/inpres-no-10-tahun-2011",
+          "supportedClaim": {
+            "id": "Moratorium penundaan pemberian izin baru selama dua tahun di hutan alam primer dan lahan gambut sejak 20 Mei 2011.",
+            "en": "Two-year suspension on new permits in primary natural forests and peatlands enacted on 20 May 2011."
+          }
+        },
+        {
+          "id": "inpres-5-2019",
+          "title": "Instruksi Presiden Nomor 5 Tahun 2019 tentang Penghentian Pemberian Izin Baru dan Penyempurnaan Tata Kelola Hutan Alam Primer dan Lahan Gambut",
+          "authorOrInstitution": "Pemerintah Republik Indonesia (JDIH BPK RI)",
+          "year": "2019",
+          "urlOrDoi": "https://peraturan.bpk.go.id/Details/111818/inpres-no-5-tahun-2019",
+          "supportedClaim": {
+            "id": "Penghentian izin baru di hutan alam primer dan lahan gambut ditetapkan berlaku permanen sejak 7 Agustus 2019.",
+            "en": "Moratorium on new permits in primary natural forests and peatlands made permanent on 7 August 2019."
+          }
+        }
+      ],
+      "relatedStories": [
+        {
+          "targetSlug": "sumatran-tiger-conservation",
+          "relationType": "Affects",
+          "rationale": {
+            "id": "Hilangnya 17% hutan berpenghuni harimau di Sumatra (2000–2012) menurunkan potensi populasi harimau pulau sebesar 16,6% (Luskin et al., 2017).",
+            "en": "The loss of 17% of tiger-bearing Sumatran forests (2000–2012) drove an estimated 16.6% decline in island-wide potential tiger population (Luskin et al., 2017)."
+          }
+        },
+        {
+          "targetSlug": "sumatran-orangutan-leuser",
+          "relationType": "Affects",
+          "rationale": {
+            "id": "Perubahan tutupan lahan dan fragmentasi hutan mendorong proyeksi penurunan tajam Pongo abelii serta mengisolasi Pongo tapanuliensis di Batang Toru.",
+            "en": "Land-cover change and forest fragmentation drive steep projected declines in Pongo abelii and isolate Pongo tapanuliensis in Batang Toru."
+          }
+        },
+        {
+          "targetSlug": "indonesia-peatland-fires",
+          "relationType": "Associated with",
+          "rationale": {
+            "id": "Pembukaan lebih dari 1,5 juta ha hutan rawa/gambut primer di Sumatra (2000–2012) dan pembuatan kanal drainase meningkatkan kerentanan kebakaran saat musim kemarau.",
+            "en": "Clearing over 1.5 Mha of primary wetland/peat forests in Sumatra (2000–2012) and drainage canalization heighten dry-season fire susceptibility."
+          }
+        },
+        {
+          "targetSlug": "indonesia-mangrove-blue-carbon",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Deforestasi hutan daratan dan konversi mangrove pesisir sama-sama berada dalam kerangka tata kelola hutan nasional dan kebijakan moratorium Indonesia.",
+            "en": "Both terrestrial primary forest clearing and coastal mangrove conversion fall within Indonesia's national forest governance and moratorium framework."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sumatran-tiger-conservation",
+      "slug": "sumatran-tiger-conservation",
+      "featured": true,
+      "category": "endangered-species",
+      "region": "kerinci-seblat",
+      "location": {
+        "name": {
+          "id": "Taman Nasional Kerinci Seblat & Lanskap Harimau Sumatra",
+          "en": "Kerinci Seblat National Park & Sumatra Tiger Landscapes"
+        },
+        "coordinates": {
+          "lat": -2.4167,
+          "lng": 101.4833,
+          "label": "2.4167° S, 101.4833° E"
+        },
+        "mapAnchor": {
+          "x": 156,
+          "y": 521
+        }
+      },
+      "heroImage": {
+        "src": "/images/sumatran-tiger.jpg",
+        "alt": {
+          "id": "Harimau Sumatra (Panthera tigris sumatrae) dengan corak loreng gelap khas.",
+          "en": "Sumatran tiger (Panthera tigris sumatrae) displaying its dense, narrow stripes."
+        },
+        "caption": {
+          "id": "Harimau Sumatra (Panthera tigris sumatrae), satu-satunya subspesies harimau yang tersisa di Indonesia dan berstatus Kritis (Critically Endangered).",
+          "en": "The Sumatran tiger (Panthera tigris sumatrae), Indonesia's sole surviving tiger subspecies, listed as Critically Endangered."
+        },
+        "author": "Theo Kruse (Burgers' Zoo)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumatran_tiger_(Panthera_tigris_sumatrae).jpg",
+        "attribution": "Photo by Theo Kruse (Burgers' Zoo), CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "title": {
+        "id": "Tantangan Konservasi Harimau Sumatra",
+        "en": "Sumatran Tiger Conservation Challenges"
+      },
+      "subtitle": {
+        "id": "Paradoks kepadatan populasi di taman nasional yang membaik namun terancam oleh fragmentasi hutan dan perburuan jerat",
+        "en": "The paradox of rising tiger densities inside guarded parks offset by severe island-wide habitat fragmentation and snaring"
+      },
+      "summary": {
+        "id": "Penilaian IUCN Red List 2022 memperkirakan populasi harimau Sumatra di alam liar sekitar 393 individu (rentang masuk akal 173–883). Meskipun patroli konservasi meningkatkan kepadatan lokal di taman nasional yang dipantau sebesar ~4,9% per tahun pada 1996–2014, hilangnya 17% hutan habitat harimau pada 2000–2012 menurunkan potensi populasi pulau hingga 16,6% dan menyisakan hanya dua lanskap besar yang layak mandiri.",
+        "en": "The 2022 IUCN Red List reassessment estimates Indonesia's wild Sumatran tiger population at 393 individuals (plausible range 173–883). Although anti-poaching protection raised local densities inside monitored parks by ~4.9% annually from 1996 to 2014, clearing 17% of tiger-bearing forests over 2000–2012 drove a 16.6% drop in potential island-wide population and left only two landscapes large enough for long-term viability."
+      },
+      "keyMetric": {
+        "value": "393",
+        "label": {
+          "id": "Estimasi individu di Indonesia (rentang 173–883, IUCN 2022)",
+          "en": "Estimated wild individuals in Indonesia (range 173–883, IUCN 2022)"
+        },
+        "factType": "estimate",
+        "sourceId": "goodrich-2022"
+      },
+      "sections": {
+        "introduction": {
+          "paragraphs": [
+            {
+              "id": "Harimau Sumatra (Panthera tigris sumatrae) merupakan satu-satunya populasi harimau yang masih bertahan di Kepulauan Indonesia dan diakui sebagai subspesies berstatus Kritis (Critically Endangered). Dalam penilaian ulang IUCN Red List 2022 oleh Goodrich et al., spesies harimau global (Panthera tigris) berstatus Terancam (3.726–5.578 individu liar), sedangkan populasi di Indonesia diperkirakan sekitar 393 individu dengan rentang masuk akal 173–883 individu berdasarkan kompilasi survei 2004–2018.",
+              "en": "The Sumatran tiger (Panthera tigris sumatrae) is Indonesia's last surviving tiger lineage and is classified as Critically Endangered. In the 2022 IUCN Red List global assessment (Goodrich et al.), Panthera tigris as a species is listed as Endangered (3,726–5,578 wild individuals), while Indonesia's Sumatran population is estimated at 393 individuals within a plausible range of 173–883 (2004–2018 survey data).",
+              "factType": "estimate",
+              "sourceIds": ["goodrich-2022"]
+            },
+            {
+              "id": "Kisah konservasi harimau Sumatra menyimpan paradoks penting: perlindungan di dalam sejumlah taman nasional memang berhasil menaikkan kepadatan lokal, namun hilangnya hutan dataran rendah secara cepat di luar dan di perbatasan kawasan lindung menggerus ruang hidup totalnya di seluruh pulau.",
+              "en": "Sumatran tiger conservation presents a stark ecological paradox: targeted protection inside monitored parks has boosted local densities, yet rapid deforestation in surrounding lowlands continues to erode total carrying capacity across the island.",
+              "factType": "estimate",
+              "sourceIds": ["luskin-2017"]
+            }
+          ]
+        },
+        "place": {
+          "paragraphs": [
+            {
+              "id": "Salah satu benteng terpenting spesies ini adalah Taman Nasional Kerinci Seblat yang membentang sekitar 1.379.100 hektare (13.791 km²) di sepanjang jajaran pegunungan Bukit Barisan, melintasi empat provinsi. Bersama Taman Nasional Gunung Leuser dan Bukit Barisan Selatan, kawasan ini menjadi pilar Warisan Hutan Hujan Tropis Sumatra UNESCO.",
+              "en": "One of the species' core strongholds is Kerinci Seblat National Park, spanning roughly 1,379,100 hectares (13,791 km²) along the Bukit Barisan spine across four provinces. Together with Gunung Leuser and Bukit Barisan Selatan National Parks, it forms the backbone of UNESCO's Tropical Rainforest Heritage of Sumatra.",
+              "factType": "fact",
+              "sourceIds": ["unesco-trhs"]
+            },
+            {
+              "id": "Selain pegunungan utama, harimau Sumatra juga bergantung pada hutan dataran rendah dan rawa gambut di Riau serta Sumatra bagian selatan sebagai koridor penyebaran. Namun, pemodelan lanskap menunjukkan fragmentasi hanya menyisakan dua lanskap hutan yang cukup luas dan terhubung untuk menopang >30 betina berkembang biak secara mandiri dalam jangka panjang.",
+              "en": "Beyond rugged mountain interiors, tigers rely on lowland forests and peat swamps in Riau and southern Sumatra as dispersal corridors. Landscape modeling indicates that fragmentation has left only two Sumatran forest landscapes sufficiently large and connected to independently sustain viable populations of more than 30 breeding females.",
+              "factType": "estimate",
+              "sourceIds": ["luskin-2017"]
+            }
+          ]
+        },
+        "whatIsHappening": {
+          "paragraphs": [
+            {
+              "id": "Studi kamera jebak oleh Luskin et al. (2017) menemukan bahwa antara 1996 hingga 2014, kepadatan harimau di dalam taman nasional yang dipantau meningkat sekitar 4,9% per tahun berkat patroli konservasi dan penanggulangan perburuan. Namun pada periode 2000–2012, sekitar 17% hutan berpenghuni harimau di Sumatra mengalami deforestasi.",
+              "en": "Camera-trap synthesis by Luskin et al. (2017) found that between 1996 and 2014, tiger densities inside monitored Sumatran parks increased by approximately 4.9% per year thanks to conservation enforcement. Over 2000–2012, however, roughly 17% of Sumatra's tiger-bearing forests were cleared.",
+              "factType": "estimate",
+              "sourceIds": ["luskin-2017"]
+            },
+            {
+              "id": "Kehilangan habitat tersebut memicu penurunan estimasi potensi populasi harimau di seluruh Pulau Sumatra sebesar 16,6%, yang berarti peningkatan kepadatan di taman nasional tidak cukup mengimbangi penyusutan luas habitat secara keseluruhan.",
+              "en": "That habitat loss caused an estimated 16.6% decline in total potential island-wide tiger population—demonstrating that localized density gains inside parks cannot offset island-scale habitat shrinkage.",
+              "factType": "estimate",
+              "sourceIds": ["luskin-2017"]
+            }
+          ]
+        },
+        "causes": {
+          "items": [
+            {
+              "title": {
+                "id": "Fragmentasi Hutan Dataran Rendah & Lahan Gambut",
+                "en": "Lowland & Peatland Habitat Fragmentation"
+              },
+              "detail": {
+                "id": "Penebangan dan perluasan perkebunan sawit serta hutan tanaman memutus konektivitas antar-kantong hutan, menyulitkan individu muda menyebar untuk mencari wilayah baru.",
+                "en": "Logging and expansion of oil palm and pulpwood plantations sever connections between forest blocks, impeding dispersal of subadult tigers between subpopulations."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["luskin-2017", "goodrich-2022"]
+            },
+            {
+              "title": {
+                "id": "Perburuan Ilegal dengan Jerat (Snaring) terhadap Harimau & Mangsa",
+                "en": "Illegal Snaring of Tigers and Prey Species"
+              },
+              "detail": {
+                "id": "Pemasangan jerat kabel ilegal di dalam dan di tepi kawasan hutan tidak hanya membunuh harimau secara langsung untuk perdagangan ilegal, tetapi juga menguras populasi satwa mangsanya seperti rusa sambar dan babi hutan.",
+                "en": "Wire snares placed inside and along forest edges kill tigers directly for illicit trade while also depleting essential prey populations such as sambar deer and wild boar."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["luskin-2017", "goodrich-2022"]
+            },
+            {
+              "title": {
+                "id": "Konflik Manusia–Harimau di Tepian Hutan",
+                "en": "Human–Tiger Conflict Along Forest Edges"
+              },
+              "detail": {
+                "id": "Penyempitan batas hutan membuat harimau lebih sering bersinggungan dengan lahan pertanian dan ternak warga, meningkatkan risiko pembalasan atau penangkapan darurat.",
+                "en": "Compressed forest-agriculture boundaries bring tigers into closer contact with settlements and livestock, escalating retaliatory killings and emergency removals."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["goodrich-2022"]
+            }
+          ]
+        },
+        "impacts": {
+          "items": [
+            {
+              "title": {
+                "id": "Hanya Dua Lanskap Viabel Jangka Panjang",
+                "en": "Only Two Independently Viable Landscapes Remaining"
+              },
+              "detail": {
+                "id": "Subpopulasi kecil di fragmen hutan terisolasi menghadapi risiko tinggi kepunahan lokal dan penyempitan keragaman genetik.",
+                "en": "Small subpopulations marooned in isolated forest fragments face elevated local extinction risk and genetic bottlenecks."
+              },
+              "factType": "estimate",
+              "sourceIds": ["luskin-2017"]
+            },
+            {
+              "title": {
+                "id": "Hilangnya Predator Puncak Mengganggu Keseimbangan Ekosistem",
+                "en": "Apex Predator Decline Alters Trophic Balance"
+              },
+              "detail": {
+                "id": "Sebagai predator puncak, menyusutnya populasi harimau Sumatra melemahkan regulasi alami populasi herbivora besar di ekosistem hutan hujan Sumatra.",
+                "en": "As an apex predator, declining Sumatran tiger numbers weaken top-down ecological regulation across Sumatra's remaining rainforest food webs."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["goodrich-2022", "unesco-trhs"]
+            }
+          ]
+        },
+        "limitations": {
+          "id": "Karena harimau bersifat soliter, bergerak di wilayah jelajah luas, dan hidup di hutan hujan tropis yang rapat, survei kamera jebak hanya mampu menjangkau sebagian lanskap. Akibatnya, estimasi populasi memiliki interval kepercayaan yang sangat lebar (173–883 individu di Indonesia), sehingga angka pasti jumlah harimau liar di seluruh pulau tetap mengandung ketidakpastian tinggi.",
+          "en": "Because tigers are solitary, wide-ranging, and cryptic in dense tropical rainforest, camera-trap surveys only sample subsets of the landscape. Consequently, national population estimates carry wide uncertainty bounds (173–883 individuals in Indonesia), preventing an exact island-wide headcount.",
+          "factType": "uncertainty",
+          "sourceIds": ["goodrich-2022"]
+        }
+      },
+      "timeline": [
+        {
+          "date": "2004",
+          "title": {
+            "id": "Taman Nasional utama harimau masuk Warisan Dunia UNESCO",
+            "en": "Core tiger parks inscribed by UNESCO"
+          },
+          "detail": {
+            "id": "Gunung Leuser, Kerinci Seblat (1,379 juta ha), dan Bukit Barisan Selatan ditetapkan sebagai Warisan Hutan Hujan Tropis Sumatra.",
+            "en": "Gunung Leuser, Kerinci Seblat (1.379 Mha), and Bukit Barisan Selatan are inscribed as the Tropical Rainforest Heritage of Sumatra."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2011",
+          "title": {
+            "id": "Status Warisan Dunia dalam Bahaya",
+            "en": "Inscribed on World Heritage in Danger list"
+          },
+          "detail": {
+            "id": "UNESCO menetapkan status Dalam Bahaya akibat ancaman perambahan, penebangan liar, perburuan, dan rencana jalan di sekitar habitat harimau.",
+            "en": "UNESCO places the property on the In Danger list citing poaching, encroachment, illegal logging, and road proposals."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2017-12",
+          "title": {
+            "id": "Studi Nature Communications memetakan dampak deforestasi",
+            "en": "Nature Communications study quantifies deforestation impact"
+          },
+          "detail": {
+            "id": "Luskin et al. melaporkan kenaikan kepadatan di taman nasional (4,9%/tahun pada 1996–2014) tergerus oleh deforestasi 17% hutan harimau (2000–2012), menurunkan potensi populasi 16,6%.",
+            "en": "Luskin et al. report that park density gains (4.9%/yr, 1996–2014) were outweighed by 17% forest loss (2000–2012), reducing potential population by 16.6%."
+          },
+          "factType": "estimate",
+          "sourceIds": ["luskin-2017"]
+        },
+        {
+          "date": "2022",
+          "title": {
+            "id": "Penilaian ulang IUCN Red List untuk Panthera tigris",
+            "en": "IUCN Red List reassessment of Panthera tigris"
+          },
+          "detail": {
+            "id": "Goodrich et al. memperkirakan 393 harimau di Indonesia (rentang 173–883) dan mempertahankan status Kritis bagi subspesies Sumatra.",
+            "en": "Goodrich et al. estimate 393 tigers in Indonesia (range 173–883) while P. t. sumatrae remains recognized as Critically Endangered."
+          },
+          "factType": "estimate",
+          "sourceIds": ["goodrich-2022"]
+        }
+      ],
+      "sources": [
+        {
+          "id": "goodrich-2022",
+          "title": "Panthera tigris. The IUCN Red List of Threatened Species 2022: e.T15955A214862019",
+          "authorOrInstitution": "Goodrich, J., Wibisono, H., Miquelle, D., et al. (IUCN Red List)",
+          "year": "2022",
+          "urlOrDoi": "https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T15955A214862019.en",
+          "supportedClaim": {
+            "id": "Estimasi populasi harimau di Indonesia 393 individu (rentang masuk akal 173–883, data 2004–2018); populasi global 3.726–5.578 individu liar.",
+            "en": "Indonesia's Sumatran tiger population estimated at 393 individuals (plausible range 173–883, 2004–2018 data); global species 3,726–5,578 wild individuals."
+          }
+        },
+        {
+          "id": "luskin-2017",
+          "title": "Sumatran tiger survival threatened by deforestation despite increasing densities in parks",
+          "authorOrInstitution": "Luskin, M. S. et al. (Nature Communications)",
+          "year": "2017",
+          "urlOrDoi": "https://doi.org/10.1038/s41467-017-01656-4",
+          "supportedClaim": {
+            "id": "Kepadatan di taman nasional naik ~4,9%/tahun (1996–2014), namun 17% hutan habitat harimau hilang (2000–2012) sehingga potensi populasi turun 16,6% dan tersisa 2 lanskap viabel (>30 betina dewasa).",
+            "en": "Park densities rose ~4.9%/yr (1996–2014), yet 17% tiger forest loss (2000–2012) caused a 16.6% decline in potential population, leaving only two landscapes viable for >30 breeding females."
+          }
+        },
+        {
+          "id": "unesco-trhs",
+          "title": "Tropical Rainforest Heritage of Sumatra",
+          "authorOrInstitution": "UNESCO World Heritage Centre / Kementerian Kehutanan RI",
+          "year": "2004 / 2011",
+          "urlOrDoi": "https://whc.unesco.org/en/list/1167/",
+          "supportedClaim": {
+            "id": "Taman Nasional Kerinci Seblat seluas ~1.379.100 ha (13.791 km²) merupakan bagian inti Warisan Dunia UNESCO yang berstatus Dalam Bahaya sejak 2011.",
+            "en": "Kerinci Seblat National Park spans ~1,379,100 ha (13,791 km²) as a core component of UNESCO's Tropical Rainforest Heritage of Sumatra (In Danger since 2011)."
+          }
+        }
+      ],
+      "relatedStories": [
+        {
+          "targetSlug": "sumatran-orangutan-leuser",
+          "relationType": "Observed in",
+          "rationale": {
+            "id": "Kawasan Ekosistem Leuser (>2,6 juta ha) tercatat sebagai tempat terakhir di Bumi tempat harimau, orangutan, badak, dan gajah Sumatra hidup berdampingan di alam liar.",
+            "en": "The Leuser Ecosystem (>2.6 Mha) is documented as the last place on Earth where Sumatran tigers, orangutans, rhinoceroses, and elephants coexist in the wild."
+          }
+        },
+        {
+          "targetSlug": "sumatra-rainforest-deforestation",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Fragmentasi akibat konversi hutan menyisakan hanya dua lanskap di Sumatra yang cukup luas untuk menopang >30 harimau betina dewasa secara mandiri (Luskin et al., 2017).",
+            "en": "Deforestation-driven fragmentation left only two forest landscapes in Sumatra large enough to independently sustain >30 breeding female tigers (Luskin et al., 2017)."
+          }
+        },
+        {
+          "targetSlug": "indonesia-peatland-fires",
+          "relationType": "Associated with",
+          "rationale": {
+            "id": "Hutan rawa gambut di Riau dan Sumatra bagian selatan berfungsi sebagai koridor jelajah harimau yang rusak saat musim kebakaran El Niño.",
+            "en": "Peat swamp forests in Riau and southern Sumatra serve as tiger dispersal corridors that suffer severe degradation during El Niño fire seasons."
+          }
+        }
+      ]
+    },
+    {
+      "id": "indonesia-peatland-fires",
+      "slug": "indonesia-peatland-fires",
+      "featured": true,
+      "category": "climate-fires",
+      "region": "riau-south-sumatra",
+      "location": {
+        "name": {
+          "id": "Rawa Gambut Sumatra Bagian Selatan & Riau",
+          "en": "Southern Sumatra & Riau Peat Swamps"
+        },
+        "coordinates": {
+          "lat": -2.5,
+          "lng": 104.5,
+          "label": "2.5000° S, 104.5000° E"
+        },
+        "mapAnchor": {
+          "x": 219,
+          "y": 525
+        }
+      },
+      "heroImage": {
+        "src": "/images/sumatra-fires-modis-2015.jpg",
+        "alt": {
+          "id": "Citra satelit MODIS NASA tanggal 13 September 2015 memperlihatkan asap tebal kebakaran lahan gambut menyelimuti Sumatra bagian selatan.",
+          "en": "NASA MODIS satellite image from 13 September 2015 showing dense peat-fire smoke plumes across southern Sumatra."
+        },
+        "caption": {
+          "id": "Kepulan asap kebakaran hutan dan lahan gambut di Sumatra bagian selatan yang terekam sensor MODIS NASA pada puncak krisis El Niño, 13 September 2015.",
+          "en": "Dense smoke from forest and peatland fires across southern Sumatra captured by NASA's MODIS sensor on 13 September 2015 during peak El Niño drought."
+        },
+        "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+        "license": "Public Domain (NASA)",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fires_in_southern_Sumatra_(MODIS_2015-09-13).jpg",
+        "attribution": "NASA GSFC / Jeff Schmaltz, MODIS Land Rapid Response Team (Public Domain), via Wikimedia Commons"
+      },
+      "title": {
+        "id": "Degradasi Lahan Gambut & Kebakaran Hutan dan Lahan (Karhutla) Indonesia",
+        "en": "Indonesia Peatland Degradation & Forest/Land Fires (Karhutla)"
+      },
+      "subtitle": {
+        "id": "Mengapa pengeringan kanal pada 13,43 juta hektare gambut tropis mengubah anomali El Niño menjadi krisis asap dan karbon bernilai miliaran dolar",
+        "en": "Why drainage canals across 13.43 million hectares of tropical peatlands turn El Niño droughts into multi-billion-dollar smoke and carbon crises"
+      },
+      "summary": {
+        "id": "Indonesia memiliki sekitar 13,43 juta hektare lahan gambut tropis yang menyimpan karbon ribuan tahun. Saat gambut dikeringkan melalui kanal, kekeringan El Niño memicu lonjakan kebakaran bawah permukaan secara nonlinier: data SiPongi KLHK mencatat 2,61 juta ha terbakar pada 2015 (kerugian sedikitnya USD 16,1 miliar menurut Bank Dunia), 1,65 juta ha pada 2019, dan lonjakan kembali 1,16 juta ha pada El Niño 2023 sebelum turun menjadi 376.805 ha pada 2024.",
+        "en": "Indonesia holds roughly 13.43 million hectares of tropical peatlands storing millennia of soil carbon. Once drained by canals, modest El Niño rainfall deficits trigger nonlinear surges in smouldering peat fires: KLHK SiPongi data recorded 2.61 million ha burned in 2015 (costing at least USD 16.1B per the World Bank), 1.65 million ha in 2019, and a renewed spike to 1.16 million ha during the 2023 El Niño before declining to 376,805 ha in 2024."
+      },
+      "keyMetric": {
+        "value": "2.61 Mha",
+        "label": {
+          "id": "Luas karhutla puncak 2015 (2.611.411,44 ha, SiPongi KLHK)",
+          "en": "Peak 2015 burned area (2,611,411.44 ha, KLHK SiPongi)"
+        },
+        "factType": "fact",
+        "sourceId": "klhk-sipongi"
+      },
+      "sections": {
+        "introduction": {
+          "paragraphs": [
+            {
+              "id": "Pemetaan semi-detail oleh Anda et al. (2021) memperkirakan Indonesia memiliki sekitar 13,43 juta hektare lahan gambut tropis—terutama terkonsentrasi di pesisir timur Sumatra, Kalimantan, dan Papua. Dalam kondisi alami yang jenuh air, rawa gambut nyaris tidak mudah terbakar dan berfungsi sebagai penyerap karbon jangka panjang.",
+              "en": "Semi-detailed soil mapping by Anda et al. (2021) estimates Indonesia holds approximately 13.43 million hectares of tropical peatlands, concentrated across eastern Sumatra, Kalimantan, and Papua. In their intact, waterlogged state, tropical peat domes resist combustion and act as millennia-scale carbon reservoirs.",
+              "factType": "estimate",
+              "sourceIds": ["anda-2021"]
+            },
+            {
+              "id": "Namun ketika hutan rawa gambut dibuka dan dikeringkan menggunakan jaringan kanal untuk pertanian maupun perkebunan, lapisan gambut organik bagian atas mengering dan berubah menjadi bahan bakar padat yang membara di bawah permukaan selama musim kemarau.",
+              "en": "Once cleared and drained via canal networks for agriculture or plantations, however, exposed surface peat layers dry out and transform into combustible organic fuel capable of weeks-long subsurface smouldering during dry seasons.",
+              "factType": "interpretation",
+              "sourceIds": ["field-2016", "huijnen-2016"]
+            }
+          ]
+        },
+        "place": {
+          "paragraphs": [
+            {
+              "id": "Sabuk gambut di Sumatra bagian selatan (termasuk wilayah Ogan Komering Ilir di Sumatra Selatan) dan Riau merupakan salah satu episentrum kebakaran hutan dan lahan (karhutla) paling berulang di Indonesia, bersama lahan gambut di Kalimantan.",
+              "en": "The peatland belt spanning southern Sumatra (including Ogan Komering Ilir in South Sumatra) and Riau stands among Indonesia's most recurrent karhutla epicenters, alongside peat basins in Kalimantan.",
+              "factType": "fact",
+              "sourceIds": ["klhk-sipongi", "worldbank-2016", "worldbank-2019"]
+            },
+            {
+              "id": "Menyusul krisis kabut asap besar tahun 2015, pemerintah membentuk Badan Restorasi Gambut (BRG) melalui Perpres No. 1/2016 pada 6 Januari 2016, lalu memperluas mandatnya pada 22 Desember 2020 menjadi Badan Restorasi Gambut dan Mangrove (BRGM, Perpres No. 120/2020) untuk pembasahan kembali (rewetting), revegetasi, dan revitalisasi ekonomi masyarakat.",
+              "en": "Following the 2015 haze emergency, Indonesia established the Peatland Restoration Agency (BRG) on 6 January 2016 via Perpres No. 1/2016, and expanded its mandate on 22 December 2020 into the Peatland and Mangrove Restoration Agency (BRGM, Perpres No. 120/2020) centered on rewetting, revegetation, and community livelihoods.",
+              "factType": "fact",
+              "sourceIds": ["perpres-1-2016", "perpres-120-2020"]
+            }
+          ]
+        },
+        "whatIsHappening": {
+          "paragraphs": [
+            {
+              "id": "Data pemantauan resmi SiPongi KLHK menunjukkan pola siklus yang tajam: luas karhutla mencapai 2.611.411,44 ha pada 2015 dan 1.649.258,00 ha pada 2019. Setelah menurun pada tahun-tahun lebih basah—296.942 ha (2020), 358.867 ha (2021), dan 204.894 ha (2022)—luas terbakar kembali melonjak saat El Niño 2023 menjadi 1.161.192,90 ha sebelum turun ke 376.805,05 ha pada 2024.",
+              "en": "Official KLHK SiPongi monitoring records a stark cyclical pattern: total burned area reached 2,611,411.44 ha in 2015 and 1,649,258.00 ha in 2019. After moderating during wetter La Niña years—296,942 ha (2020), 358,867 ha (2021), and 204,894 ha (2022)—burned area surged back to 1,161,192.90 ha during the 2023 El Niño before declining to 376,805.05 ha in 2024.",
+              "factType": "fact",
+              "sourceIds": ["klhk-sipongi"]
+            },
+            {
+              "id": "Dari sisi atmosfer, Huijnen et al. (2016) menilai emisi karbon dari kebakaran Asia Tenggara Maritim pada 2015 sebagai yang terbesar sejak 1997, dengan perkiraan sekitar 0,89–1,75 Gt CO₂-eq yang sebagian besar bersumber dari pembakaran gambut terdegradasi.",
+              "en": "Atmospherically, Huijnen et al. (2016) documented that carbon emissions from the 2015 Maritime Southeast Asian fires were the largest since 1997, estimated at roughly 0.89–1.75 Gt CO₂-eq across atmospheric assessments and driven predominantly by smouldering drained peat.",
+              "factType": "estimate",
+              "sourceIds": ["huijnen-2016"]
+            }
+          ]
+        },
+        "causes": {
+          "items": [
+            {
+              "title": {
+                "id": "Sensitivitas Nonlinier Gambut Kering terhadap Kekeringan El Niño",
+                "en": "Nonlinear Fire Sensitivity of Drained Peat to El Niño Drought"
+              },
+              "detail": {
+                "id": "Field et al. (2016) menunjukkan bahwa setelah gambut dikeringkan kanal, defisit curah hujan yang moderat akibat El Niño sudah cukup menurunkan muka air tanah melewati ambang kritis dan memicu lonjakan eksponensial titik api serta polusi asap.",
+                "en": "Field et al. (2016) demonstrate that once peatlands are drained, even moderate El Niño rainfall deficits drop groundwater tables past a critical threshold, driving nonlinear spikes in fire activity and smoke."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["field-2016"]
+            },
+            {
+              "title": {
+                "id": "Pembukaan Lahan, Drainase Kanal & Penggunaan Api",
+                "en": "Land Clearing, Canal Drainage & Fire Ignition"
+              },
+              "detail": {
+                "id": "Penebangan, ekspansi perkebunan, dan pembersihan semak dengan api di lahan gambut kering menghasilkan bara bawah tanah yang sulit dipadamkan hingga hujan muson kembali turun.",
+                "en": "Logging, plantation conversion, and fire-based land clearing over dried peat ignite deep smouldering combustion that resists suppression until monsoon rains return."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["field-2016", "huijnen-2016"]
+            }
+          ]
+        },
+        "impacts": {
+          "items": [
+            {
+              "title": {
+                "id": "Kerugian Ekonomi Miliaran Dolar AS",
+                "en": "Multi-Billion-Dollar Economic & Health Losses"
+              },
+              "detail": {
+                "id": "Bank Dunia memperkirakan krisis karhutla dan kabut asap 2015 merugikan Indonesia sedikitnya USD 16,1 miliar (~Rp221 triliun atau ~1,9% PDB), sedangkan kebakaran 2019 menimbulkan kerugian sedikitnya USD 5,2 miliar (~0,5% PDB) di delapan provinsi terdampak.",
+                "en": "The World Bank estimated the 2015 fire and haze crisis cost Indonesia at least USD 16.1 billion (~IDR 221 trillion, or ~1.9% of GDP), while the 2019 fires cost at least USD 5.2 billion (~0.5% of GDP) across eight affected provinces."
+              },
+              "factType": "estimate",
+              "sourceIds": ["worldbank-2016", "worldbank-2019"]
+            },
+            {
+              "title": {
+                "id": "Lonjakan Emisi Gas Rumah Kaca & Kabut Asap Lintas Batas",
+                "en": "Greenhouse Gas Surges & Transboundary Smoke Haze"
+              },
+              "detail": {
+                "id": "Pembakaran gambut melepaskan karbon purba (~0,89–1,75 Gt CO₂-eq pada 2015) serta partikulat asap tebal yang mengganggu kesehatan pernapasan, sekolah, dan transportasi di Asia Tenggara.",
+                "en": "Peat combustion releases ancient carbon (~0.89–1.75 Gt CO₂-eq in 2015) alongside dense particulate haze that disrupts public health, schools, and aviation across Southeast Asia."
+              },
+              "factType": "estimate",
+              "sourceIds": ["huijnen-2016"]
+            }
+          ]
+        },
+        "limitations": {
+          "id": "Kebakaran gambut bawah permukaan membara pada suhu lebih rendah dibandingkan api tajuk hutan, dan sering tertutup kabut asap tebal serta awan tropis. Kondisi ini membuat deteksi titik panas termal satelit (MODIS/VIIRS) dapat melewatkan bara aktif, sementara estimasi emisi karbon memiliki rentang ketidakpastian besar (misalnya 0,89–1,75 Gt CO₂-eq pada 2015) karena keterbatasan pengukuran kedalaman gambut yang terbakar.",
+          "en": "Subsurface smouldering peat fires burn at lower temperatures beneath dense smoke plumes and tropical cloud cover, causing satellite thermal hotspot sensors (MODIS/VIIRS) to under-detect active burning and leaving wide uncertainty in carbon emission estimates (e.g., 0.89–1.75 Gt CO₂-eq in 2015) due to variable peat burn depth.",
+          "factType": "uncertainty",
+          "sourceIds": ["huijnen-2016"]
+        }
+      },
+      "timeline": [
+        {
+          "date": "2015-08–2015-11",
+          "title": {
+            "id": "Krisis karhutla El Niño 2015",
+            "en": "2015 El Niño fire & haze crisis"
+          },
+          "detail": {
+            "id": "SiPongi KLHK mencatat 2.611.411,44 ha terbakar; Bank Dunia memperkirakan kerugian sedikitnya USD 16,1 miliar dengan emisi karbon tertinggi sejak 1997.",
+            "en": "KLHK SiPongi records 2,611,411.44 ha burned; World Bank estimates at least USD 16.1B in losses amid the largest regional fire emissions since 1997."
+          },
+          "factType": "fact",
+          "sourceIds": ["klhk-sipongi", "worldbank-2016", "huijnen-2016"]
+        },
+        {
+          "date": "2016-01-06",
+          "title": {
+            "id": "Pembentukan Badan Restorasi Gambut (BRG)",
+            "en": "Peatland Restoration Agency (BRG) established"
+          },
+          "detail": {
+            "id": "Perpres No. 1/2016 membentuk BRG untuk memulihkan hidrologi dan vegetasi lahan gambut terdegradasi.",
+            "en": "Presidential Regulation No. 1/2016 creates BRG to restore hydrology and vegetation across degraded peatlands."
+          },
+          "factType": "fact",
+          "sourceIds": ["perpres-1-2016"]
+        },
+        {
+          "date": "2019-06–2019-10",
+          "title": {
+            "id": "Kebangkitan karhutla 2019",
+            "en": "2019 karhutla resurgence"
+          },
+          "detail": {
+            "id": "Kebakaran melanda 1.649.258,00 ha secara nasional dan menimbulkan kerugian ekonomi sedikitnya USD 5,2 miliar di delapan provinsi.",
+            "en": "Fires burn 1,649,258.00 ha nationwide, causing at least USD 5.2B in economic damages across eight provinces."
+          },
+          "factType": "fact",
+          "sourceIds": ["klhk-sipongi", "worldbank-2019"]
+        },
+        {
+          "date": "2020-12-22",
+          "title": {
+            "id": "Mandat diperluas menjadi BRGM (Perpres No. 120/2020)",
+            "en": "BRG expanded into BRGM (Perpres No. 120/2020)"
+          },
+          "detail": {
+            "id": "Restorasi gambut diintegrasikan dengan target rehabilitasi 600.000 ha mangrove di provinsi prioritas.",
+            "en": "Peatland restoration is integrated with a 600,000 ha mangrove rehabilitation mandate across priority provinces."
+          },
+          "factType": "fact",
+          "sourceIds": ["perpres-120-2020"]
+        },
+        {
+          "date": "2023",
+          "title": {
+            "id": "Lonjakan kembali karhutla saat El Niño 2023",
+            "en": "2023 El Niño fire resurgence"
+          },
+          "detail": {
+            "id": "Setelah periode rendah 2020–2022, luas terbakar kembali naik menjadi 1.161.192,90 ha pada 2023.",
+            "en": "Following quieter 2020–2022 seasons, burned area jumps back to 1,161,192.90 ha during the 2023 El Niño."
+          },
+          "factType": "fact",
+          "sourceIds": ["klhk-sipongi"]
+        },
+        {
+          "date": "2024",
+          "title": {
+            "id": "Penurunan luas karhutla tahun 2024",
+            "en": "2024 burned area moderation"
+          },
+          "detail": {
+            "id": "Rekapitulasi SiPongi KLHK mencatat luas terbakar turun menjadi 376.805,05 ha pada 2024.",
+            "en": "KLHK SiPongi reports annual burned area declined to 376,805.05 ha in 2024."
+          },
+          "factType": "fact",
+          "sourceIds": ["klhk-sipongi"]
+        }
+      ],
+      "chartData": {
+        "type": "bar",
+        "title": {
+          "id": "Luas Kebakaran Hutan dan Lahan (Karhutla) Indonesia per Tahun (SiPongi KLHK)",
+          "en": "Indonesia Annual Forest & Land Burned Area (KLHK SiPongi+)"
+        },
+        "unit": "ha",
+        "sourceId": "klhk-sipongi",
+        "note": {
+          "id": "Menampilkan tahun puncak El Niño 2015 serta seri 2019–2024 dari SiPongi KLHK (tahun 2016–2018 tidak ditampilkan pada seri ringkasan ini). Batang oranye menandai tahun krisis El Niño (2015, 2019, 2023).",
+          "en": "Displays the 2015 El Niño benchmark alongside the continuous 2019–2024 KLHK SiPongi+ series (2016–2018 omitted in this summary view). Highlighted bars indicate major El Niño fire spikes (2015, 2019, 2023)."
+        },
+        "series": [
+          {
+            "label": "2015",
+            "value": 2611411.44,
+            "highlight": true
+          },
+          {
+            "label": "2019",
+            "value": 1649258.0,
+            "highlight": true
+          },
+          {
+            "label": "2020",
+            "value": 296942,
+            "highlight": false
+          },
+          {
+            "label": "2021",
+            "value": 358867,
+            "highlight": false
+          },
+          {
+            "label": "2022",
+            "value": 204894,
+            "highlight": false
+          },
+          {
+            "label": "2023",
+            "value": 1161192.9,
+            "highlight": true
+          },
+          {
+            "label": "2024",
+            "value": 376805.05,
+            "highlight": false
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "klhk-sipongi",
+          "title": "Rekapitulasi Luas Kebakaran Hutan dan Lahan (Karhutla) Indonesia — SiPongi+",
+          "authorOrInstitution": "Direktorat Pengendalian Kebakaran Hutan, Kementerian Kehutanan RI (SiPongi+)",
+          "year": "2015–2024",
+          "urlOrDoi": "https://sipongi.gakkum.kehutanan.go.id/indikasi-luas-kebakaran",
+          "supportedClaim": {
+            "id": "Luas terbakar nasional: 2.611.411,44 ha (2015), 1.649.258,00 ha (2019), 296.942 ha (2020), 358.867 ha (2021), 204.894 ha (2022), 1.161.192,90 ha (2023), 376.805,05 ha (2024).",
+            "en": "Annual burned area: 2,611,411.44 ha (2015), 1,649,258.00 ha (2019), 296,942 ha (2020), 358,867 ha (2021), 204,894 ha (2022), 1,161,192.90 ha (2023), 376,805.05 ha (2024)."
+          }
+        },
+        {
+          "id": "anda-2021",
+          "title": "Revisiting tropical peatlands in Indonesia: Semi-detailed mapping, extent and depth distribution assessment",
+          "authorOrInstitution": "Anda, M. et al. (Geoderma, Vol. 402, 115235)",
+          "year": "2021",
+          "urlOrDoi": "https://doi.org/10.1016/j.geoderma.2021.115235",
+          "supportedClaim": {
+            "id": "Indonesia diperkirakan memiliki sekitar 13,43 juta hektare lahan gambut tropis.",
+            "en": "Indonesia holds approximately 13.43 million hectares of tropical peatlands."
+          }
+        },
+        {
+          "id": "huijnen-2016",
+          "title": "Fire carbon emissions over maritime southeast Asia in 2015 largest since 1997",
+          "authorOrInstitution": "Huijnen, V. et al. (Scientific Reports, 6, 26886)",
+          "year": "2016",
+          "urlOrDoi": "https://doi.org/10.1038/srep26886",
+          "supportedClaim": {
+            "id": "Emisi karbon kebakaran Asia Tenggara Maritim 2015 merupakan yang terbesar sejak 1997 (~0,89–1,75 Gt CO₂-eq), dengan ketidakpastian deteksi bara gambut bawah permukaan.",
+            "en": "2015 Maritime Southeast Asian fire emissions were the largest since 1997 (~0.89–1.75 Gt CO₂-eq), subject to subsurface peat burn-depth uncertainty."
+          }
+        },
+        {
+          "id": "field-2016",
+          "title": "Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear sensitivity to El Niño-induced drought",
+          "authorOrInstitution": "Field, R. D. et al. (PNAS, 113(33), 9204–9209)",
+          "year": "2016",
+          "urlOrDoi": "https://doi.org/10.1073/pnas.1524888113",
+          "supportedClaim": {
+            "id": "Aktivitas kebakaran dan polusi asap Indonesia menunjukkan sensitivitas nonlinier yang persisten terhadap kekeringan El Niño akibat drainase gambut.",
+            "en": "Indonesian fire activity and smoke pollution display persistent nonlinear sensitivity to El Niño-induced drought in drained peatlands."
+          }
+        },
+        {
+          "id": "worldbank-2016",
+          "title": "The Cost of Fire: An Economic Analysis of Indonesia's 2015 Fire Crisis (Indonesia Sustainable Landscapes Knowledge Note No. 1)",
+          "authorOrInstitution": "World Bank Group (Glauber, A. J., Moyer, S., Adriani, M., & Gunawan, I.)",
+          "year": "2016",
+          "urlOrDoi": "https://hdl.handle.net/10986/23840",
+          "supportedClaim": {
+            "id": "Kerugian ekonomi krisis karhutla dan kabut asap 2015 diperkirakan sedikitnya USD 16,1 miliar (~Rp221 triliun atau ~1,9% PDB).",
+            "en": "Economic losses from the 2015 fire and haze crisis were estimated at least USD 16.1 billion (~IDR 221 trillion, or ~1.9% of GDP)."
+          }
+        },
+        {
+          "id": "worldbank-2019",
+          "title": "Indonesia Economic Quarterly, December 2019: Investing in People",
+          "authorOrInstitution": "World Bank Group",
+          "year": "2019",
+          "urlOrDoi": "https://hdl.handle.net/10986/33033",
+          "supportedClaim": {
+            "id": "Kebakaran hutan dan kabut asap 2019 menimbulkan kerugian ekonomi sedikitnya USD 5,2 miliar (~0,5% PDB) di delapan provinsi terdampak.",
+            "en": "The 2019 forest fires and haze caused at least USD 5.2 billion (~0.5% of GDP) in economic losses across eight affected provinces."
+          }
+        },
+        {
+          "id": "perpres-1-2016",
+          "title": "Peraturan Presiden Nomor 1 Tahun 2016 tentang Badan Restorasi Gambut",
+          "authorOrInstitution": "Pemerintah Republik Indonesia (Ditjen PP / JDIH)",
+          "year": "2016",
+          "urlOrDoi": "https://peraturan.go.id/id/perpres-no-1-tahun-2016",
+          "supportedClaim": {
+            "id": "Pembentukan Badan Restorasi Gambut (BRG) pada 6 Januari 2016 untuk pemulihan hidrologi dan vegetasi lahan gambut.",
+            "en": "Establishment of the Peatland Restoration Agency (BRG) on 6 January 2016 to restore peatland hydrology and vegetation."
+          }
+        },
+        {
+          "id": "perpres-120-2020",
+          "title": "Peraturan Presiden Nomor 120 Tahun 2020 tentang Badan Restorasi Gambut dan Mangrove",
+          "authorOrInstitution": "Pemerintah Republik Indonesia (Ditjen PP / JDIH)",
+          "year": "2020",
+          "urlOrDoi": "https://peraturan.go.id/id/perpres-no-120-tahun-2020",
+          "supportedClaim": {
+            "id": "Perluasan mandat BRG menjadi Badan Restorasi Gambut dan Mangrove (BRGM) pada 22 Desember 2020.",
+            "en": "Expansion of BRG into the Peatland and Mangrove Restoration Agency (BRGM) on 22 December 2020."
+          }
+        }
+      ],
+      "relatedStories": [
+        {
+          "targetSlug": "sumatra-rainforest-deforestation",
+          "relationType": "Associated with",
+          "rationale": {
+            "id": "Penebangan, perluasan perkebunan, dan pengeringan gambut menciptakan akumulasi bahan bakar kering yang mudah terbakar secara nonlinier saat kekeringan El Niño (Field et al., 2016).",
+            "en": "Logging, plantation expansion, and peat drainage create dry fuel loads that ignite and escalate nonlinearly during El Niño droughts (Field et al., 2016)."
+          }
+        },
+        {
+          "targetSlug": "sumatran-tiger-conservation",
+          "relationType": "Affects",
+          "rationale": {
+            "id": "Kebakaran gambut berskala besar merusak koridor hutan dataran rendah tersisa dan meningkatkan konflik satwa di tepi hutan.",
+            "en": "Large-scale peatland fires degrade remaining lowland forest corridors and heighten edge exposure and human–wildlife conflict."
+          }
+        },
+        {
+          "targetSlug": "indonesia-mangrove-blue-carbon",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Gambut tropis (13,43 juta ha) dan mangrove pesisir (3,36 juta ha) sama-sama merupakan penyimpan karbon padat yang dikelola bersama oleh BRGM berdasarkan Perpres No. 120/2020.",
+            "en": "Both peatlands (13.43 Mha) and mangroves (3.36 Mha) are high-density carbon sinks co-managed nationally by BRGM under Perpres No. 120/2020."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sumatran-orangutan-leuser",
+      "slug": "sumatran-orangutan-leuser",
+      "featured": false,
+      "category": "endangered-species",
+      "region": "leuser-aceh",
+      "location": {
+        "name": {
+          "id": "Ekosistem Leuser & Batang Toru, Aceh–Sumatra Utara",
+          "en": "Leuser Ecosystem & Batang Toru, Aceh–North Sumatra"
+        },
+        "coordinates": {
+          "lat": 3.5,
+          "lng": 97.5,
+          "label": "3.5000° N, 97.5000° E"
+        },
+        "mapAnchor": {
+          "x": 73,
+          "y": 225
+        }
+      },
+      "heroImage": {
+        "src": "/images/gunung-leuser-orangutan.jpg",
+        "alt": {
+          "id": "Orangutan Sumatra liar di kanopi Taman Nasional Gunung Leuser, Aceh–Sumatra Utara.",
+          "en": "Wild Sumatran orangutans in the rainforest canopy of Gunung Leuser National Park, Aceh–North Sumatra."
+        },
+        "caption": {
+          "id": "Orangutan Sumatra (Pongo abelii) di Taman Nasional Gunung Leuser—bagian dari benteng terakhir kera besar Sumatra.",
+          "en": "Sumatran orangutans (Pongo abelii) in Gunung Leuser National Park—part of Sumatra's last great-ape stronghold."
+        },
+        "author": "Dennis Keller",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gunung_Leuser_%26_Orang_Utans_(35738532710).jpg",
+        "attribution": "Photo by Dennis Keller, CC BY 2.0, via Wikimedia Commons"
+      },
+      "title": {
+        "id": "Orangutan Sumatra & Tapanuli di Lanskap Leuser & Batang Toru",
+        "en": "Sumatran & Tapanuli Orangutans in the Leuser & Batang Toru Landscapes"
+      },
+      "subtitle": {
+        "id": "Menjaga benteng terakhir dua spesies kera besar berstatus Kritis—termasuk spesies kera besar paling langka di Bumi yang baru dideskripsikan pada 2017",
+        "en": "Safeguarding two Critically Endangered great apes—including Earth's rarest great-ape species formally described in 2017"
+      },
+      "summary": {
+        "id": "Sumatra bagian utara adalah rumah bagi dua spesies orangutan berstatus Kritis: orangutan Sumatra (Pongo abelii, diperkirakan ~14.613 individu) di Kawasan Ekosistem Leuser seluas >2,6 juta hektare, dan orangutan Tapanuli (Pongo tapanuliensis, <800 individu) yang baru dideskripsikan secara ilmiah pada November 2017 di Batang Toru (~1.420–1.458 km²). Keduanya menghadapi ancaman tajam dari hilangnya hutan dataran rendah dan fragmentasi infrastruktur.",
+        "en": "Northern Sumatra hosts two Critically Endangered great-ape species: the Sumatran orangutan (Pongo abelii, estimated ~14,613 individuals) centered in the >2.6 million-hectare Leuser Ecosystem, and the Tapanuli orangutan (Pongo tapanuliensis, <800 individuals), formally described in November 2017 in Batang Toru (~1,420–1,458 km²). Both face acute pressure from lowland deforestation and infrastructure fragmentation."
+      },
+      "keyMetric": {
+        "value": "< 800",
+        "label": {
+          "id": "Estimasi individu Pongo tapanuliensis di Batang Toru (IUCN)",
+          "en": "Estimated Pongo tapanuliensis individuals in Batang Toru (IUCN)"
+        },
+        "factType": "estimate",
+        "sourceId": "nowak-2017"
+      },
+      "sections": {
+        "introduction": {
+          "paragraphs": [
+            {
+              "id": "Pada November 2017, para peneliti melalui bukti morfometri, perilaku, dan genomik secara resmi mendeskripsikan spesies ketiga orangutan yang terpisah di selatan Danau Toba, Sumatra Utara: orangutan Tapanuli (Pongo tapanuliensis). Penemuan ini menjadikan bagian utara Sumatra satu-satunya wilayah di dunia yang menjadi habitat dua spesies orangutan berbeda.",
+              "en": "In November 2017, researchers integrating morphometric, behavioral, and genomic evidence formally described a distinct third orangutan species south of Lake Toba in North Sumatra: the Tapanuli orangutan (Pongo tapanuliensis). This discovery established northern Sumatra as the sole region on Earth inhabited by two distinct orangutan species.",
+              "factType": "fact",
+              "sourceIds": ["nater-2017", "nowak-2017"]
+            },
+            {
+              "id": "Namun keunikan evolusioner tersebut sangat rapuh. Baik Pongo abelii maupun Pongo tapanuliensis menyandang status Kritis (Critically Endangered) dalam Daftar Merah IUCN, dengan populasi Pongo tapanuliensis kurang dari 800 individu—menjadikannya kera besar paling langka di Bumi.",
+              "en": "Yet this evolutionary heritage is extraordinarily fragile. Both Pongo abelii and Pongo tapanuliensis are assessed as Critically Endangered on the IUCN Red List, with Pongo tapanuliensis numbering fewer than 800 individuals—making it the rarest great ape on Earth.",
+              "factType": "estimate",
+              "sourceIds": ["nowak-2017", "wich-2016", "singleton-2024"]
+            }
+          ]
+        },
+        "place": {
+          "paragraphs": [
+            {
+              "id": "Kawasan Ekosistem Leuser (KEL) mencakup lebih dari 2,6 juta hektare melintasi Aceh dan Sumatra Utara (2°15'LU–4°57'LU, 96°21'BT–98°33'BT). Wilayah ini tercatat sebagai tempat terakhir di Bumi tempat orangutan, harimau, badak, dan gajah Sumatra hidup berdampingan di alam liar, dengan Taman Nasional Gunung Leuser sebagai inti kawasan lindungnya.",
+              "en": "The Leuser Ecosystem spans over 2.6 million hectares across Aceh and North Sumatra (2°15'N–4°57'N, 96°21'E–98°33'E). Centered on Gunung Leuser National Park, it is documented as the last place on Earth where Sumatran orangutans, tigers, rhinoceroses, and elephants coexist in the wild.",
+              "factType": "fact",
+              "sourceIds": ["unesco-trhs"]
+            },
+            {
+              "id": "Lebih jauh ke selatan dari Danau Toba, Pongo tapanuliensis hidup terbatas di ekosistem hutan perbukitan Batang Toru yang hanya seluas sekitar 1.420–1.458 km² dan kini terpecah menjadi Blok Barat dan Blok Timur.",
+              "en": "Further south beyond Lake Toba, Pongo tapanuliensis is wholly restricted to the Batang Toru upland forest ecosystem, covering only ~1,420–1,458 km² and fragmented into Western and Eastern blocks.",
+              "factType": "estimate",
+              "sourceIds": ["nater-2017", "nowak-2017"]
+            }
+          ]
+        },
+        "whatIsHappening": {
+          "paragraphs": [
+            {
+              "id": "Untuk Pongo abelii, survei komprehensif 2015–2016 yang dipublikasikan Wich et al. (2016) merevisi estimasi populasi menjadi sekitar 14.613 individu. Para peneliti menegaskan angka lebih besar dibanding perkiraan lama itu mencerminkan perluasan cakupan survei ke elevasi lebih tinggi dan hutan yang belum disurvei sebelumnya, bukan pertumbuhan populasi alami.",
+              "en": "For Pongo abelii, expanded 2015–2016 surveys reported by Wich et al. (2016) revised the total estimate to approximately 14,613 individuals. Researchers emphasize that this higher figure reflects expanded survey coverage into higher elevations and previously uncounted forests rather than genuine biological population growth.",
+              "factType": "estimate",
+              "sourceIds": ["wich-2016", "singleton-2024"]
+            },
+            {
+              "id": "Sebaliknya, pemodelan perubahan tutupan lahan memproyeksikan penurunan tajam populasi Pongo abelii di masa mendatang, sementara populasi kecil Pongo tapanuliensis di Batang Toru terus menghadapi tekanan isolasi genetik dan pembukaan koridor.",
+              "en": "Conversely, land-cover change scenarios project steep future declines for Pongo abelii, while the tiny Batang Toru population of Pongo tapanuliensis faces acute genetic isolation and corridor disruption.",
+              "factType": "interpretation",
+              "sourceIds": ["wich-2016", "nowak-2017"]
+            }
+          ]
+        },
+        "causes": {
+          "items": [
+            {
+              "title": {
+                "id": "Konversi Hutan Dataran Rendah & Rawa Gambut",
+                "en": "Lowland & Peat Swamp Forest Conversion"
+              },
+              "detail": {
+                "id": "Orangutan Sumatra sangat bergantung pada hutan dataran rendah dan rawa gambut yang kaya buah-buahan—zona yang paling intensif mengalami penebangan dan konversi perkebunan.",
+                "en": "Sumatran orangutans rely heavily on fruit-rich lowland and peat swamp forests—precisely the elevations most intensively targeted by logging and plantation expansion."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["wich-2016"]
+            },
+            {
+              "title": {
+                "id": "Fragmentasi Infrastruktur di Batang Toru",
+                "en": "Infrastructure Fragmentation in Batang Toru"
+              },
+              "detail": {
+                "id": "Jaringan jalan, perluasan lahan pertanian, dan jejak infrastruktur termasuk proyek PLTA Batang Toru (sekitar 122 ha pembukaan langsung beserta jalan dan jalur transmisi) berisiko memutus pergerakan antar-subpopulasi Pongo tapanuliensis.",
+                "en": "Road corridors, agricultural clearing, and infrastructure footprints—including the Batang Toru hydropower project (~122 ha direct clearance plus access roads and transmission lines)—threaten connectivity between Western and Eastern Batang Toru blocks."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["nowak-2017"]
+            }
+          ]
+        },
+        "impacts": {
+          "items": [
+            {
+              "title": {
+                "id": "Isolasi Populasi Kecil & Risiko Kepunahan",
+                "en": "Small-Population Isolation & Extinction Risk"
+              },
+              "detail": {
+                "id": "Dengan jumlah kurang dari 800 individu yang terfragmentasi, hilangnya konektivitas kanopi sekecil apa pun dapat menghambat pertukaran genetik bagi primata arboreal yang hampir seluruh hidupnya berada di atas pohon.",
+                "en": "With fewer than 800 individuals split across blocks, even narrow canopy gaps impede dispersal and gene flow for strictly arboreal apes."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["wich-2016", "nowak-2017"]
+            },
+            {
+              "title": {
+                "id": "Erosi Peran Ekologis sebagai Penyebar Biji Hutan",
+                "en": "Loss of Keystone Rainforest Seed Dispersers"
+              },
+              "detail": {
+                "id": "Sebagai frugivora bertubuh besar, menyusutnya orangutan melemahkan regenerasi alami pohon-pohon hutan hujan kanopi tinggi di Leuser dan Batang Toru.",
+                "en": "As large-bodied frugivores, declining orangutan densities reduce long-distance seed dispersal essential for tropical rainforest canopy regeneration."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["unesco-trhs"]
+            }
+          ]
+        },
+        "limitations": {
+          "id": "Estimasi populasi orangutan tidak dilakukan dengan menghitung individu secara langsung, melainkan melalui survei transek penghitungan sarang dari udara dan darat. Metode ini sangat peka terhadap asumsi laju pembuatan dan pelapukan sarang yang berbeda menurut tipe hutan, elevasi, dan gangguan, sehingga menghasilkan ketidakpastian pada angka populasi absolut.",
+          "en": "Orangutan abundance is rarely measured by direct headcounts; instead, scientists rely on ground and aerial nest-count transect surveys. Estimates are sensitive to nest-construction and nest-decay rates that vary across forest types, elevation, and disturbance levels, introducing uncertainty around exact population totals.",
+          "factType": "uncertainty",
+          "sourceIds": ["wich-2016", "singleton-2024"]
+        }
+      },
+      "timeline": [
+        {
+          "date": "2004",
+          "title": {
+            "id": "Gunung Leuser menjadi pilar Warisan Dunia UNESCO",
+            "en": "Gunung Leuser inscribed in UNESCO World Heritage"
+          },
+          "detail": {
+            "id": "Taman Nasional Gunung Leuser masuk dalam Warisan Hutan Hujan Tropis Sumatra yang ditetapkan UNESCO.",
+            "en": "Gunung Leuser National Park is inscribed as part of the Tropical Rainforest Heritage of Sumatra."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2011",
+          "title": {
+            "id": "Status Warisan Dunia dalam Bahaya",
+            "en": "Placed on UNESCO In Danger List"
+          },
+          "detail": {
+            "id": "UNESCO memasukkan Warisan Hutan Hujan Tropis Sumatra ke daftar Dalam Bahaya akibat ancaman perambahan, penebangan liar, dan rencana jalan.",
+            "en": "UNESCO places the Tropical Rainforest Heritage of Sumatra on the In Danger list due to encroachment, logging, and road threats."
+          },
+          "factType": "fact",
+          "sourceIds": ["unesco-trhs"]
+        },
+        {
+          "date": "2016-03",
+          "title": {
+            "id": "Revisi cakupan survei Pongo abelii (~14.613 individu)",
+            "en": "Expanded survey revision for Pongo abelii (~14,613)"
+          },
+          "detail": {
+            "id": "Wich et al. (Science Advances) memperkirakan ~14.613 orangutan Sumatra dengan memperluas survei ke elevasi lebih tinggi, seraya memproyeksikan penurunan tajam akibat deforestasi.",
+            "en": "Wich et al. (Science Advances) report ~14,613 Sumatran orangutans via expanded elevation sampling while projecting steep future declines under land-cover change."
+          },
+          "factType": "estimate",
+          "sourceIds": ["wich-2016"]
+        },
+        {
+          "date": "2017-11",
+          "title": {
+            "id": "Deskripsi resmi Pongo tapanuliensis sebagai spesies baru",
+            "en": "Formal description of Pongo tapanuliensis"
+          },
+          "detail": {
+            "id": "Nater et al. (Current Biology) mendeskripsikan orangutan Tapanuli sebagai spesies ketiga orangutan, disusul penilaian IUCN Kritis (<800 individu).",
+            "en": "Nater et al. (Current Biology) describe the Tapanuli orangutan as a third distinct species, assessed as Critically Endangered (<800 individuals)."
+          },
+          "factType": "fact",
+          "sourceIds": ["nater-2017", "nowak-2017"]
+        }
+      ],
+      "sources": [
+        {
+          "id": "nater-2017",
+          "title": "Morphometric, Behavioral, and Genomic Evidence for a New Orangutan Species",
+          "authorOrInstitution": "Nater, A. et al. (Current Biology)",
+          "year": "2017",
+          "urlOrDoi": "https://doi.org/10.1016/j.cub.2017.09.047",
+          "supportedClaim": {
+            "id": "Deskripsi ilmiah resmi orangutan Tapanuli (Pongo tapanuliensis) di Batang Toru pada November 2017.",
+            "en": "Formal November 2017 scientific description of Pongo tapanuliensis in Batang Toru."
+          }
+        },
+        {
+          "id": "nowak-2017",
+          "title": "Pongo tapanuliensis. The IUCN Red List of Threatened Species 2017: e.T120588639A120588662",
+          "authorOrInstitution": "Nowak, M. G. et al. (IUCN Red List)",
+          "year": "2017",
+          "urlOrDoi": "https://doi.org/10.2305/IUCN.UK.2017-3.RLTS.T120588639A120588662.en",
+          "supportedClaim": {
+            "id": "Pongo tapanuliensis berstatus Kritis dengan populasi <800 individu di ~1.420–1.458 km² serta terancam fragmentasi di Batang Toru.",
+            "en": "Pongo tapanuliensis is Critically Endangered with <800 individuals across ~1,420–1,458 km² and faces Batang Toru fragmentation."
+          }
+        },
+        {
+          "id": "wich-2016",
+          "title": "Land-cover changes predict steep declines for the Sumatran orangutan (Pongo abelii)",
+          "authorOrInstitution": "Wich, S. A. et al. (Science Advances)",
+          "year": "2016",
+          "urlOrDoi": "https://doi.org/10.1126/sciadv.1500789",
+          "supportedClaim": {
+            "id": "Revisi survei 2015–2016 memperkirakan ~14.613 Pongo abelii akibat perluasan cakupan survei serta memproyeksikan penurunan tajam akibat perubahan tutupan lahan.",
+            "en": "2015–2016 survey expansion yields ~14,613 Pongo abelii and predicts steep declines under future land-cover change."
+          }
+        },
+        {
+          "id": "singleton-2024",
+          "title": "Pongo abelii. The IUCN Red List of Threatened Species",
+          "authorOrInstitution": "Singleton, I. et al. (IUCN Red List)",
+          "year": "2017 / 2024",
+          "urlOrDoi": "https://doi.org/10.2305/IUCN.UK.2024-1.RLTS.T121097935A259045437.en",
+          "supportedClaim": {
+            "id": "Status Kritis (Critically Endangered) Pongo abelii dan keterbatasan survei penghitungan sarang.",
+            "en": "Critically Endangered status of Pongo abelii and nest-count survey uncertainties."
+          }
+        },
+        {
+          "id": "unesco-trhs",
+          "title": "Tropical Rainforest Heritage of Sumatra & Leuser Ecosystem Spatial Records",
+          "authorOrInstitution": "UNESCO World Heritage Centre / Gunung Leuser NP",
+          "year": "2004 / 2011",
+          "urlOrDoi": "https://whc.unesco.org/en/list/1167/",
+          "supportedClaim": {
+            "id": "Kawasan Ekosistem Leuser (>2,6 juta ha) sebagai habitat koeksistensi empat megafauna Sumatra dan status Dalam Bahaya Gunung Leuser.",
+            "en": "Leuser Ecosystem (>2.6 Mha) supporting four coexisting Sumatran megafauna and UNESCO In Danger status."
+          }
+        }
+      ],
+      "relatedStories": [
+        {
+          "targetSlug": "sumatra-rainforest-deforestation",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Kawasan lindung inti seperti Taman Nasional Gunung Leuser bertahan dalam Daftar Warisan Dunia dalam Bahaya UNESCO sejak 2011 akibat ancaman perambahan, penebangan liar, dan rencana jalan.",
+            "en": "Core protected parks such as Gunung Leuser remain on UNESCO's List of World Heritage in Danger (since 2011) due to encroachment, illegal logging, and road plans."
+          }
+        },
+        {
+          "targetSlug": "sumatran-tiger-conservation",
+          "relationType": "Associated with",
+          "rationale": {
+            "id": "Orangutan dan harimau Sumatra sama-sama merupakan megafauna berstatus Kritis yang berbagi lanskap konservasi Warisan Hutan Hujan Tropis Sumatra.",
+            "en": "Both species are Critically Endangered Sumatran megafauna sharing the Tropical Rainforest Heritage of Sumatra conservation landscape."
+          }
+        }
+      ]
+    },
+    {
+      "id": "indonesia-mangrove-blue-carbon",
+      "slug": "indonesia-mangrove-blue-carbon",
+      "featured": false,
+      "category": "coastal-blue-carbon",
+      "region": "archipelago-coast",
+      "location": {
+        "name": {
+          "id": "Sabuk Mangrove Pesisir Indonesia (Benoa, Bali & Pesisir Nusantara)",
+          "en": "Indonesian Coastal Mangrove Belt (Benoa, Bali & Archipelago Coasts)"
+        },
+        "coordinates": {
+          "lat": -8.75,
+          "lng": 115.21,
+          "label": "8.7500° S, 115.2100° E"
+        },
+        "mapAnchor": {
+          "x": 442,
+          "y": 838
+        }
+      },
+      "heroImage": {
+        "src": "/images/benoa-bali-mangrove.jpg",
+        "alt": {
+          "id": "Hutan mangrove pesisir di kawasan Teluk Benoa, Bali, Indonesia.",
+          "en": "Coastal mangrove forest stand in Benoa Bay, Bali, Indonesia."
+        },
+        "caption": {
+          "id": "Ekosistem mangrove di Benoa, Bali, Indonesia—bagian dari 3,36 juta hektare hutan mangrove pesisir Nusantara yang menyimpan karbon biru sangat padat.",
+          "en": "Mangrove forest in Benoa, Bali, Indonesia—part of Indonesia's 3.36 million hectares of coastal mangroves storing globally significant blue carbon."
+        },
+        "author": "CEphoto, Uwe Aranas",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benoa_Bali_Indonesia-Mangrove-forest-01.jpg",
+        "attribution": "Photo by CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "title": {
+        "id": "Ekosistem Mangrove Indonesia & Karbon Biru Pesisir",
+        "en": "Indonesian Mangrove Ecosystems & Coastal Blue Carbon"
+      },
+      "subtitle": {
+        "id": "Mengapa 3,36 juta hektare mangrove Nusantara—sekitar seperempat mangrove dunia—menyimpan karbon yang tak tergantikan dengan cepat oleh restorasi",
+        "en": "Why Indonesia's 3.36 million hectares of mangroves—nearly a quarter of the global total—hold soil carbon that restoration cannot quickly replace"
+      },
+      "summary": {
+        "id": "Peta Mangrove Nasional 2021 mencatat 3.364.080 hektare mangrove eksisting di Indonesia (20–24% total dunia), dengan rata-rata simpanan karbon ekosistem 1.083 ± 378 Mg C ha⁻¹ (total ~3,14 PgC). Meski hanya mencakup ~2,6% luas hutan nasional, deforestasi mangrove pada 2009–2019 menyumbang ~10% emisi GRK sektor kehutanan—menunjukkan perlindungan mangrove utuh jauh lebih efektif mencegah emisi dibanding sekadar rehabilitasi pasca-kerusakan.",
+        "en": "Indonesia's 2021 National Mangrove Map recorded 3,364,080 hectares of existing mangroves (20–24% of global extent), storing an average of 1,083 ± 378 Mg C ha⁻¹ (~3.14 PgC total). Although mangroves represent only ~2.6% of Indonesia's forest area, mangrove clearing between 2009 and 2019 generated ~10% of forestry-sector GHG emissions—underscoring why conserving intact stands prevents far more emissions than post-clearing restoration alone."
+      },
+      "keyMetric": {
+        "value": "1,083 ± 378 Mg C/ha",
+        "label": {
+          "id": "Rata-rata stok karbon ekosistem mangrove Indonesia (Murdiyarso et al., 2015)",
+          "en": "Mean Indonesian mangrove ecosystem carbon stock (Murdiyarso et al., 2015)"
+        },
+        "factType": "estimate",
+        "sourceId": "murdiyarso-2015"
+      },
+      "sections": {
+        "introduction": {
+          "paragraphs": [
+            {
+              "id": "Membentang dari pantai timur Sumatra hingga Kalimantan, Bali, dan pesisir Papua, Indonesia memiliki ekosistem mangrove terluas di dunia. Peta Mangrove Nasional (PMN) 2021 yang diterbitkan KLHK mencatat luas mangrove eksisting mencapai 3.364.080 hektare (~3,36 juta ha)—sekitar 20–24% dari seluruh luas mangrove global—ditambah sekitar 756.000 hektare potensi habitat mangrove.",
+              "en": "Stretching from eastern Sumatra across Kalimantan, Bali, and Papua's coastlines, Indonesia hosts the planet's largest mangrove expanse. KLHK's 2021 National Mangrove Map (PMN) recorded 3,364,080 hectares (~3.36 Mha) of existing mangroves—roughly 20–24% of the world's mangrove area—alongside ~756,000 ha of potential mangrove habitat.",
+              "factType": "fact",
+              "sourceIds": ["klhk-pmn-2021"]
+            },
+            {
+              "id": "Selain meredam gelombang pasang dan menopang perikanan pesisir, mangrove menyimpan 'karbon biru' dalam jumlah luar biasa di tanah organiknya yang anaerob: rata-rata 1.083 ± 378 Mg C ha⁻¹, atau sekitar 3,14 petagram (miliar ton) karbon di ~2,9 juta hektare yang dianalisis oleh Murdiyarso et al. (2015).",
+              "en": "Beyond buffering coastal storm surges and sustaining fisheries, mangroves lock immense 'blue carbon' inside waterlogged organic soils: an average of 1,083 ± 378 Mg C ha⁻¹, totaling ~3.14 petagrams (billion metric tons) of carbon across ~2.9 Mha analyzed by Murdiyarso et al. (2015).",
+              "factType": "estimate",
+              "sourceIds": ["murdiyarso-2015"]
+            }
+          ]
+        },
+        "place": {
+          "paragraphs": [
+            {
+              "id": "Ekosistem mangrove Indonesia tersebar di zona pasang surut muara sungai, delta aluvial, hingga laguna pesisir kepulauan—mulai dari pantai timur Sumatra dan delta Kalimantan hingga Papua serta kawasan teluk seperti Teluk Benoa di Bali.",
+              "en": "Indonesian mangroves occupy intertidal estuaries, alluvial deltas, and sheltered archipelagic lagoons—spanning eastern Sumatra and Kalimantan river deltas to Papua and coastal bays such as Benoa Bay in Bali.",
+              "factType": "fact",
+              "sourceIds": ["klhk-pmn-2021", "sasmito-2023"]
+            },
+            {
+              "id": "Pada 22 Desember 2020 melalui Perpres No. 120/2020, pemerintah memandatkan Badan Restorasi Gambut dan Mangrove (BRGM) untuk mempercepat rehabilitasi 600.000 hektare mangrove terdegradasi di sembilan provinsi prioritas hingga 2024.",
+              "en": "On 22 December 2020 under Perpres No. 120/2020, the government mandated the Peatland and Mangrove Restoration Agency (BRGM) to accelerate rehabilitation of 600,000 hectares of degraded mangroves across nine priority provinces through 2024.",
+              "factType": "fact",
+              "sourceIds": ["sasmito-2023", "perpres-120-2020"]
+            }
+          ]
+        },
+        "whatIsHappening": {
+          "paragraphs": [
+            {
+              "id": "Penelitian Arifanti et al. (2022) menemukan bahwa antara 2009 dan 2019, deforestasi mangrove Indonesia rata-rata sekitar 12.818 hektare per tahun (kehilangan bruto >182.000 ha), yang melepaskan emisi sekitar 182,6 juta ton CO₂e (faktor emisi ~136,9 Mg CO₂e ha⁻¹ tahun⁻¹).",
+              "en": "Research by Arifanti et al. (2022) documents that between 2009 and 2019, Indonesian mangrove deforestation averaged ~12,818 ha/yr (gross loss >182,000 ha), emitting an estimated 182.6 million metric tons of CO₂e (emission factor ~136.9 Mg CO₂e ha⁻¹ yr⁻¹).",
+              "factType": "estimate",
+              "sourceIds": ["arifanti-2022"]
+            },
+            {
+              "id": "Dampak iklimnya sangat tidak proporsional: meskipun mangrove hanya mencakup ~2,6% dari total luas hutan Indonesia, hilangnya mangrove menyumbang sekitar 10% emisi gas rumah kaca sektor kehutanan nasional.",
+              "en": "Its climate footprint is strikingly disproportionate: even though mangroves account for only ~2.6% of Indonesia's forest area, mangrove loss generated roughly 10% of the nation's forestry-sector greenhouse gas emissions.",
+              "factType": "estimate",
+              "sourceIds": ["arifanti-2022", "sasmito-2023"]
+            }
+          ]
+        },
+        "causes": {
+          "items": [
+            {
+              "title": {
+                "id": "Konversi menjadi Tambak Budidaya Perikanan & Pertanian",
+                "en": "Conversion to Aquaculture Ponds & Coastal Agriculture"
+              },
+              "detail": {
+                "id": "Pembukaan hutan mangrove untuk tambak udang dan ikan, pertanian pesisir, serta lahan terbuka menjadi pendorong utama hilangnya mangrove di Indonesia.",
+                "en": "Clearing coastal mangroves for shrimp and fish aquaculture ponds, agriculture, and coastal open land has been the primary driver of Indonesian mangrove loss."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["arifanti-2022", "sasmito-2023"]
+            },
+            {
+              "title": {
+                "id": "Ketimpangan antara Pencegahan Emisi & Laju Pemulihan",
+                "en": "Asymmetry Between Avoided Loss & Restoration Recovery"
+              },
+              "detail": {
+                "id": "Ketika tanah gambut pesisir digali atau teroksidasi akibat tambak, karbon yang terakumulasi berabad-abad terlepas cepat, sedangkan penanaman kembali membutuhkan waktu sangat lama dan tingkat keberhasilan yang bergantung pada hidrologi pasang surut.",
+                "en": "Once organic coastal soils are excavated or oxidized for ponds, centuries of stored carbon escape rapidly, whereas replanting recovers biomass slowly and often fails where tidal hydrology is disrupted."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["sasmito-2023"]
+            }
+          ]
+        },
+        "impacts": {
+          "items": [
+            {
+              "title": {
+                "id": "Kontribusi Besar terhadap Emisi Kehutanan (10% dari 2,6% Lahan)",
+                "en": "Disproportionate Emissions Share (10% from 2.6% of Forest Area)"
+              },
+              "detail": {
+                "id": "Kerapatan karbon tanah mangrove yang ekstrem menjadikan perusakan seluas puluhan ribu hektare menghasilkan emisi setara jutaan hektare hutan daratan.",
+                "en": "Extreme below-ground carbon density means clearing relatively small coastal strips produces emissions outsized relative to area lost."
+              },
+              "factType": "estimate",
+              "sourceIds": ["arifanti-2022"]
+            },
+            {
+              "title": {
+                "id": "Prioritas Konservasi Utuh di Samping Rehabilitasi",
+                "en": "Conserving Intact Stands Alongside Targeted Rehabilitation"
+              },
+              "detail": {
+                "id": "Studi Arifanti et al. (2022) dan Sasmito et al. (2023) menegaskan bahwa melindungi mangrove yang masih utuh mencegah emisi jauh lebih besar daripada yang dapat dipulihkan secara cepat oleh rehabilitasi.",
+                "en": "Both Arifanti et al. (2022) and Sasmito et al. (2023) conclude that protecting intact mangroves avoids far greater emissions than restoration can rapidly recover."
+              },
+              "factType": "interpretation",
+              "sourceIds": ["arifanti-2022", "sasmito-2023"]
+            }
+          ]
+        },
+        "limitations": {
+          "id": "Estimasi stok karbon mangrove Indonesia memiliki variasi spasial tinggi (1.083 ± 378 Mg C ha⁻¹) karena ketebalan tanah organik sangat dipengaruhi oleh kondisi geomorfologi—antara muara sungai berendapan tebal dan pesisir berkarang atau samudra terbuka. Selain itu, keberhasilan rehabilitasi jangka panjang sangat bergantung pada pemulihan aliran pasang surut dan kejelasan status tata kelola lahan.",
+          "en": "Mangrove carbon stock estimates carry wide spatial variance (1,083 ± 378 Mg C ha⁻¹) because organic soil depth varies strongly across geomorphologies, from deep estuarine deltas to shallow oceanic fringes. Long-term restoration survival also hinges on restoring natural tidal hydrology and resolving coastal land-tenure clarity.",
+          "factType": "uncertainty",
+          "sourceIds": ["murdiyarso-2015", "sasmito-2023"]
+        }
+      },
+      "timeline": [
+        {
+          "date": "2009–2019",
+          "title": {
+            "id": "Kehilangan >182.000 ha mangrove & emisi 182,6 juta ton CO₂e",
+            "en": ">182,000 ha mangrove gross loss & 182.6 Mt CO₂e emitted"
+          },
+          "detail": {
+            "id": "Arifanti et al. (2022) mencatat deforestasi rata-rata ~12.818 ha/tahun, menyumbang ~10% emisi GRK sektor kehutanan Indonesia.",
+            "en": "Arifanti et al. (2022) document ~12,818 ha/yr average mangrove deforestation, accounting for ~10% of Indonesia's forestry GHG emissions."
+          },
+          "factType": "estimate",
+          "sourceIds": ["arifanti-2022"]
+        },
+        {
+          "date": "2015-07",
+          "title": {
+            "id": "Kuantifikasi karbon biru mangrove nasional (~3,14 PgC)",
+            "en": "National mangrove blue-carbon stock quantified (~3.14 PgC)"
+          },
+          "detail": {
+            "id": "Murdiyarso et al. (Nature Climate Change) melaporkan stok karbon rata-rata 1.083 ± 378 Mg C ha⁻¹ di ekosistem mangrove Indonesia.",
+            "en": "Murdiyarso et al. (Nature Climate Change) report mean ecosystem carbon stocks of 1,083 ± 378 Mg C ha⁻¹ across Indonesian mangroves."
+          },
+          "factType": "estimate",
+          "sourceIds": ["murdiyarso-2015"]
+        },
+        {
+          "date": "2020-12-22",
+          "title": {
+            "id": "Mandat BRGM rehabilitasi 600.000 ha mangrove",
+            "en": "BRGM mandated to rehabilitate 600,000 ha of mangroves"
+          },
+          "detail": {
+            "id": "Perpres No. 120/2020 memperluas mandat BRG menjadi BRGM untuk mempercepat rehabilitasi 600.000 ha mangrove hingga 2024.",
+            "en": "Perpres No. 120/2020 expands BRG into BRGM with a target to rehabilitate 600,000 ha of degraded mangroves through 2024."
+          },
+          "factType": "fact",
+          "sourceIds": ["perpres-120-2020", "sasmito-2023"]
+        },
+        {
+          "date": "2021",
+          "title": {
+            "id": "Pemutakhiran Peta Mangrove Nasional (PMN) 2021",
+            "en": "2021 National Mangrove Map (PMN) published"
+          },
+          "detail": {
+            "id": "KLHK memetakan 3.364.080 ha mangrove eksisting dan sekitar 756.000 ha potensi habitat mangrove di seluruh Indonesia.",
+            "en": "KLHK maps 3,364,080 ha of existing mangroves and ~756,000 ha of potential mangrove habitat across Indonesia."
+          },
+          "factType": "fact",
+          "sourceIds": ["klhk-pmn-2021"]
+        }
+      ],
+      "chartData": {
+        "type": "comparison",
+        "title": {
+          "id": "Luas Mangrove Eksisting vs Potensi Habitat Indonesia (PMN KLHK 2021)",
+          "en": "Indonesia Existing Mangrove Extent vs Potential Habitat (KLHK PMN 2021)"
+        },
+        "unit": "ha",
+        "sourceId": "klhk-pmn-2021",
+        "note": {
+          "id": "Berdasarkan Peta Mangrove Nasional (PMN) KLHK 2021 (3.364.080 ha eksisting; ~756.000 ha potensi habitat). Secara terpisah, Perpres No. 120/2020 menugaskan BRGM merehabilitasi 600.000 ha mangrove terdegradasi (2020–2024), dengan kerapatan karbon rata-rata 1.083 ± 378 Mg C/ha (Murdiyarso et al., 2015).",
+          "en": "Based on KLHK's 2021 National Mangrove Map (3,364,080 ha existing; ~756,000 ha potential habitat). Separately, Perpres No. 120/2020 mandated BRGM to rehabilitate 600,000 ha of degraded mangroves (2020–2024), while ecosystem carbon averages 1,083 ± 378 Mg C/ha (Murdiyarso et al., 2015)."
+        },
+        "series": [
+          {
+            "label": "Existing Mangroves (PMN 2021)",
+            "value": 3364080,
+            "highlight": true
+          },
+          {
+            "label": "Potential Habitat (PMN 2021)",
+            "value": 756000,
+            "highlight": false
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "klhk-pmn-2021",
+          "title": "Peta Mangrove Nasional (PMN) 2021 (SK.926/MENLHK/PDASHL/DAS.1/10/2021)",
+          "authorOrInstitution": "Kementerian Lingkungan Hidup dan Kehutanan (KLHK)",
+          "year": "2021",
+          "urlOrDoi": "https://www.kehutanan.go.id/",
+          "supportedClaim": {
+            "id": "Luas mangrove eksisting Indonesia 3.364.080 ha (~20–24% mangrove dunia) ditambah ~756.000 ha potensi habitat mangrove.",
+            "en": "Indonesia's existing mangrove extent equals 3,364,080 ha (~20–24% of global mangroves) plus ~756,000 ha of potential habitat."
+          }
+        },
+        {
+          "id": "murdiyarso-2015",
+          "title": "The potential of Indonesian mangrove forests for global climate change mitigation",
+          "authorOrInstitution": "Murdiyarso, D. et al. (Nature Climate Change, 5, 1089–1092)",
+          "year": "2015",
+          "urlOrDoi": "https://doi.org/10.1038/nclimate2734",
+          "supportedClaim": {
+            "id": "Mangrove Indonesia menyimpan rata-rata 1.083 ± 378 Mg C ha⁻¹ (total estimasi ~3,14 PgC pada ~2,9 juta ha yang dianalisis).",
+            "en": "Indonesian mangroves store an average of 1,083 ± 378 Mg C ha⁻¹ (~3.14 PgC across ~2.9 Mha analyzed)."
+          }
+        },
+        {
+          "id": "arifanti-2022",
+          "title": "Contributions of mangrove conservation and restoration to climate change mitigation in Indonesia",
+          "authorOrInstitution": "Arifanti, V. B. et al. (Global Change Biology, 28(14), 4358–4375)",
+          "year": "2022",
+          "urlOrDoi": "https://doi.org/10.1111/gcb.16216",
+          "supportedClaim": {
+            "id": "Deforestasi mangrove 2009–2019 (~12.818 ha/th; bruto >182.000 ha) mengemisikan ~182,6 juta ton CO₂e, menyumbang ~10% emisi sektor kehutanan dari ~2,6% luas hutan.",
+            "en": "2009–2019 mangrove deforestation (~12,818 ha/yr; >182,000 ha gross loss) emitted ~182.6 Mt CO₂e, driving ~10% of forestry GHG emissions from ~2.6% of forest area."
+          }
+        },
+        {
+          "id": "sasmito-2023",
+          "title": "Challenges and opportunities for achieving Sustainable Development Goals through restoration of Indonesia's mangroves",
+          "authorOrInstitution": "Sasmito, S. D. et al. (Nature Ecology & Evolution)",
+          "year": "2023",
+          "urlOrDoi": "https://doi.org/10.1038/s41559-022-01926-5",
+          "supportedClaim": {
+            "id": "Target rehabilitasi 600.000 ha mangrove oleh BRGM serta tantangan hidrologi pasang surut dan tata kelola lahan.",
+            "en": "BRGM's 600,000 ha mangrove rehabilitation target alongside tidal hydrology and land-tenure challenges."
+          }
+        },
+        {
+          "id": "perpres-120-2020",
+          "title": "Peraturan Presiden Nomor 120 Tahun 2020 tentang Badan Restorasi Gambut dan Mangrove",
+          "authorOrInstitution": "Pemerintah Republik Indonesia (Ditjen PP / JDIH)",
+          "year": "2020",
+          "urlOrDoi": "https://peraturan.go.id/id/perpres-no-120-tahun-2020",
+          "supportedClaim": {
+            "id": "Perluasan mandat BRG menjadi BRGM pada 22 Desember 2020 dengan target percepatan rehabilitasi 600.000 ha mangrove hingga 2024.",
+            "en": "Expansion of BRG into BRGM on 22 December 2020 with a 600,000 ha mangrove rehabilitation mandate through 2024."
+          }
+        }
+      ],
+      "relatedStories": [
+        {
+          "targetSlug": "indonesia-peatland-fires",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Lahan gambut dan mangrove pesisir merupakan penyerap karbon padat secara nasional yang keduanya menjadi prioritas mandat restorasi BRGM.",
+            "en": "Together, Indonesian peatlands and coastal mangroves represent globally significant carbon reservoirs prioritized under BRGM restoration mandates."
+          }
+        },
+        {
+          "targetSlug": "sumatra-rainforest-deforestation",
+          "relationType": "Related to",
+          "rationale": {
+            "id": "Meski hanya mencakup ~2,6% luas hutan Indonesia, deforestasi mangrove menyumbang ~10% emisi GRK sektor kehutanan (2009–2019; Arifanti et al., 2022).",
+            "en": "Despite representing only ~2.6% of Indonesia's forest area, mangrove deforestation accounted for ~10% of national forestry-sector GHG emissions (2009–2019; Arifanti et al., 2022)."
+          }
+        }
+      ]
+    }
+  ]
+}

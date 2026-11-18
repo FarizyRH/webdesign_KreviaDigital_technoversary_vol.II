@@ -1,0 +1,143 @@
+/* ==========================================================================
+   Design Tokens — Dark Scientific Editorial + Immersive Exploration
+   WCAG 2.1 AA/AAA verified across #0b111a, #111927, and #162032
+   ========================================================================== */
+
+:root {
+  /* --- Surface Palette --- */
+  --color-bg-canvas: #0b111a;
+  --color-bg-surface: #111927;
+  --color-bg-elevated: #162032;
+  --color-bg-hover: #1c2940;
+  --color-bg-inset: #080d14;
+  --color-bg-nav: rgba(11, 17, 26, 0.88);
+  --color-bg-backdrop: rgba(5, 9, 15, 0.72);
+
+  /* --- Border Palette --- */
+  --color-border-subtle: rgba(148, 163, 184, 0.16);
+  --color-border-default: rgba(148, 163, 184, 0.24);
+  --color-border-strong: rgba(148, 163, 184, 0.36);
+  --color-border-control: #64748b; /* >= 3.43:1 WCAG 1.4.11 UI boundary on all surfaces */
+
+  /* --- Text Palette --- */
+  --color-text-primary: #f1f5f9;   /* 14.90:1 – 17.28:1 */
+  --color-text-secondary: #cbd5e1; /* 10.99:1 – 12.75:1 */
+  --color-text-muted: #94a3b8;     /*  6.36:1 –  7.38:1 */
+  --color-text-inverse: #0b111a;   /*  9.85:1 on #34d399, 8.84:1 on #38bdf8 */
+
+  /* --- Accent Palette: Natural Green / Geographic Blue / Amber / Violet / Rose --- */
+  --color-accent-green: #34d399;
+  --color-accent-green-hover: #6ee7b7;
+  --color-accent-green-deep: #10b981; /* Graphic / tint base only */
+  --color-accent-green-tint: rgba(16, 185, 129, 0.14);
+  --color-accent-green-border: rgba(52, 211, 153, 0.36);
+
+  --color-accent-blue: #38bdf8;
+  --color-accent-blue-hover: #7dd3fc;
+  --color-accent-blue-deep: #0284c7; /* Graphic / tint base only — never dark-bg text */
+  --color-accent-blue-tint: rgba(2, 132, 199, 0.16);
+  --color-accent-blue-border: rgba(56, 189, 248, 0.36);
+
+  --color-accent-amber: #fbbf24;
+  --color-accent-amber-deep: #f59e0b;
+  --color-accent-amber-tint: rgba(245, 158, 11, 0.14);
+  --color-accent-amber-border: rgba(251, 191, 36, 0.36);
+
+  --color-accent-violet: #c4b5fd;
+  --color-accent-violet-tint: rgba(139, 92, 246, 0.14);
+  --color-accent-violet-border: rgba(196, 181, 253, 0.36);
+
+  --color-accent-rose: #fda4af;
+  --color-accent-rose-tint: rgba(225, 29, 72, 0.16);
+  --color-accent-rose-border: rgba(253, 164, 175, 0.36);
+
+  /* --- Epistemic Status Tokens --- */
+  --epistemic-fact-fg: var(--color-accent-green);
+  --epistemic-fact-bg: var(--color-accent-green-tint);
+  --epistemic-fact-border: var(--color-accent-green-border);
+
+  --epistemic-estimate-fg: var(--color-accent-blue);
+  --epistemic-estimate-bg: var(--color-accent-blue-tint);
+  --epistemic-estimate-border: var(--color-accent-blue-border);
+
+  --epistemic-interpretation-fg: var(--color-accent-violet);
+  --epistemic-interpretation-bg: var(--color-accent-violet-tint);
+  --epistemic-interpretation-border: var(--color-accent-violet-border);
+
+  --epistemic-uncertainty-fg: var(--color-accent-amber);
+  --epistemic-uncertainty-bg: var(--color-accent-amber-tint);
+  --epistemic-uncertainty-border: var(--color-accent-amber-border);
+
+  /* --- Focus Indicator --- */
+  --focus-ring-color: #38bdf8;
+  --focus-ring: 2px solid var(--focus-ring-color);
+  --focus-ring-offset: 2px;
+
+  /* --- Offline-Safe Editorial Font Stacks --- */
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Cascadia Code", "JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  /* --- Modular Fluid Type Scale --- */
+  --text-xs: 0.75rem;                                    /* 12px */
+  --text-sm: 0.875rem;                                   /* 14px */
+  --text-base: 1rem;                                     /* 16px */
+  --text-lg: clamp(1.0625rem, 1.02rem + 0.25vw, 1.1875rem); /* 17px–19px */
+  --text-xl: clamp(1.25rem, 1.15rem + 0.5vw, 1.5rem);    /* 20px–24px */
+  --text-2xl: clamp(1.5rem, 1.3rem + 1vw, 2rem);         /* 24px–32px */
+  --text-3xl: clamp(1.875rem, 1.5rem + 1.8vw, 2.75rem);  /* 30px–44px */
+  --text-hero: clamp(2.125rem, 1.55rem + 2.6vw, 3.5rem); /* 34px–56px */
+
+  /* --- Line Heights & Reading Measure --- */
+  --leading-tight: 1.15;
+  --leading-snug: 1.3;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.75;
+  --measure-prose: 68ch;
+
+  /* --- Spacing Scale --- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --section-y: clamp(2.5rem, 2rem + 3vw, 5rem);
+
+  /* --- Layout & Containers --- */
+  --container-max: 1200px;
+  --container-narrow: 820px;
+  --container-pad: clamp(1rem, 0.75rem + 1.5vw, 2rem);
+  --nav-height: 4.25rem; /* 68px */
+
+  /* --- Radii --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --radius-pill: 9999px;
+
+  /* --- Shadows (subtle dark depth, zero neon glow) --- */
+  --shadow-sm: 0 1px 2px rgba(2, 6, 14, 0.35);
+  --shadow-md: 0 8px 24px rgba(2, 6, 14, 0.45);
+  --shadow-lg: 0 18px 40px rgba(2, 6, 14, 0.55);
+
+  /* --- Z-Index Layers --- */
+  --z-base: 1;
+  --z-sticky: 20;
+  --z-header: 40;
+  --z-drawer-backdrop: 50;
+  --z-drawer: 60;
+  --z-tooltip: 70;
+  --z-skip: 100;
+
+  /* --- Motion --- */
+  --ease-standard: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 150ms;
+  --duration-base: 240ms;
+}

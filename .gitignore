@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+e2e/node_modules/
+
+# Build & Vite caches
+dist/
+dist-ssr/
+.vite/
+
+# E2E outputs
+e2e/results/
+
+# Local & OS files
+*.local
+.DS_Store
+Thumbs.db
+GUIDEBOOK WEB DESIGN (1).pdf

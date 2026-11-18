@@ -1,0 +1,24 @@
+{
+  "name": "interactive-global-environmental-explorer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "description": "Interactive Global Environmental Explorer — bilingual (ID/EN) environmental storytelling web app.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate:data": "node scripts/validateStories.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^1.74.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "vite": "^8.3.8"
+  }
+}
